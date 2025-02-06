@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
-import '../data/data.dart';
+import '../data/data_words.dart';
 import '../models/word.dart';
 import '../widgets/word_card.dart';
 
