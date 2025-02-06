@@ -18,16 +18,18 @@ class Conjugation {
 
 class ConjugationRow {
   final String person;
-  final String suffix;
+  final String conjugation;
   final String translation;
 
   ConjugationRow(
-      {required this.person, required this.suffix, required this.translation});
+      {required this.person,
+      required this.conjugation,
+      required this.translation});
 
   factory ConjugationRow.fromJson(Map<String, dynamic> json) {
     return ConjugationRow(
       person: json['person'],
-      suffix: json['suffix'],
+      conjugation: json['conjugation'],
       translation: json['translation'],
     );
   }

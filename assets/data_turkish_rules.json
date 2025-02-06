@@ -8,7 +8,19 @@
     {
         "title": "Pronoms personnels",
         "description":
-            "- Je : Ben\n- Tu : Sen\n- Il / Elle / Ce : O\n- Nous : Biz\n- Vous : Siz\n- Ils / Elles : Onlar\n",
+            "- Je : Ben\n- Tu : Sen\n- Il / Elle / Ce : O\n- Nous : Biz\n- Vous : Siz\n- Ils / Elles : Onlar",
         "examples": "Dans la conjugaison, les pronoms sont facultatifs."
+    },
+    {
+        "title": "La nécessité",
+        "description":
+            "Le suffixe de cette forme est -meli/-malı. Il se place à la fin de la base verbale (le verbe sans -mek/-mak), et après la négation s'il y en a une.",
+        "examples": "Examples : bakmak (regarder) / bakmalı (il faut regarder),\n yemek (manger) / yemeli (il faut manger),\n bakmamak (ne pas regarder) / bakmamalı (il n’est pas nécessaire de regarder),\n yememek (ne pas manger) / yememeli (il n’est pas nécessaire de manger)"
+    },
+    {
+        "title": "La forme négative",
+        "description":
+            "Au présent, un verbe passe vers la forme négative en rajoutant entre le radical et les terminaisons le suffixe -mi/-mı/-mü/-mu pour le Şimdiki zaman et -me/-ma (selon l'harmonie vocalique). L'opérateur değil sert à marquer la négation sur les noms, pronoms et adjectifs. Yok est la négation de var et est plutôt utilisé dans un contexte de possession (ou d'existence : il y a ou il n'y a pas.",
+        "examples": "Examples : Bir köpeğim var (j’ai un chien) / Bir köpeğim yok (je n'ai pas de chien),\n peynir var (il y a du fromage) / peynir yok (il n'y a pas de fromage)"
     }
 ]

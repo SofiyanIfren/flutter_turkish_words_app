@@ -35,14 +35,14 @@ class ConjugationCard extends StatelessWidget {
                     TableCell(
                       child: Padding(
                         padding: const EdgeInsets.all(8.0),
-                        child: Text('Suffixes (tr)',
+                        child: Text('Conjugaison',
                             style: TextStyle(fontWeight: FontWeight.bold)),
                       ),
                     ),
                     TableCell(
                       child: Padding(
                         padding: const EdgeInsets.all(8.0),
-                        child: Text('Être (fr)',
+                        child: Text('Traduction',
                             style: TextStyle(fontWeight: FontWeight.bold)),
                       ),
                     ),
@@ -59,7 +59,7 @@ class ConjugationCard extends StatelessWidget {
                         TableCell(
                           child: Padding(
                             padding: const EdgeInsets.all(8.0),
-                            child: Text(row.suffix),
+                            child: Text(row.conjugation),
                           ),
                         ),
                         TableCell(

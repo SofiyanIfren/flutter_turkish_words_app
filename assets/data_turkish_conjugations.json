@@ -1,36 +1,71 @@
 [
     {
-      "tense": "Şimdiki zaman (présent progressif)",
+      "tense": "Olmak (être) - Şimdiki zaman (prst continu)",
       "rows": [
         {
           "person": "1re pers. sing.",
-          "suffix": "-(y)im",
+          "conjugation": "-(y)im",
           "translation": "je suis"
         },
         {
           "person": "2e pers. sing.",
-          "suffix": "-sin",
+          "conjugation": "-sin",
           "translation": "tu es"
         },
         {
           "person": "3e pers. sing.",
-          "suffix": "-(dir)",
+          "conjugation": "-(dir)",
           "translation": "il/elle est"
         },
         {
           "person": "1re pers. plur.",
-          "suffix": "-(y)iz",
+          "conjugation": "-(y)iz",
           "translation": "nous sommes"
         },
         {
           "person": "2e pers. plur.",
-          "suffix": "-siniz",
+          "conjugation": "-siniz",
           "translation": "vous êtes"
         },
         {
           "person": "3e pers. plur.",
-          "suffix": "-(dir)ler",
+          "conjugation": "-(dir)ler",
           "translation": "ils/elles sont"
+        }
+      ]
+    },
+    {
+      "tense": "Bilmek (être) - Şimdiki zaman (prst continu)",
+      "rows": [
+        {
+          "person": "1re pers. sing.",
+          "conjugation": "biliyorum",
+          "translation": "je sais"
+        },
+        {
+          "person": "2e pers. sing.",
+          "conjugation": "biliyorsun",
+          "translation": "tu sais"
+        },
+        {
+          "person": "3e pers. sing.",
+          "conjugation": "biliyor",
+          "translation": "il/elle sait"
+        },
+        {
+          "person": "1re pers. plur.",
+          "conjugation": "biliyoruz",
+          "translation": "nous savons"
+        },
+        {
+          "person": "2e pers. plur.",
+          "conjugation": "biliyorsunuz",
+          "translation": "vous savez"
+        },
+        {
+          "person": "3e pers. plur.",
+          "conjugation": "-biliyorlar",
+          "translation": "ils/elles savent"
         }
       ]
     }
