@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'package:flutter/services.dart';
-import 'word.dart';
+import '../models/word.dart';
 
 Future<List<Word>> loadWords() async {
   final String response = await rootBundle
