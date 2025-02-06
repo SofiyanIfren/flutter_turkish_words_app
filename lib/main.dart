@@ -4,21 +4,81 @@ import 'data.dart';
 import 'word.dart';
 
 void main() {
-  runApp(WordCardsApp());
+  runApp(MultiWindowApp());
 }
 
-class WordCardsApp extends StatelessWidget {
+class MultiWindowApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Word Cards',
+      title: 'Multi Window App',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: WordCardsScreen(),
+      home: MainScreen(),
     );
   }
 }
+
+class MainScreen extends StatefulWidget {
+  @override
+  _MainScreenState createState() => _MainScreenState();
+}
+
+class _MainScreenState extends State<MainScreen>
+    with SingleTickerProviderStateMixin {
+  late TabController _tabController;
+
+  @override
+  void initState() {
+    super.initState();
+    _tabController = TabController(length: 3, vsync: this);
+  }
+
+  @override
+  void dispose() {
+    _tabController.dispose();
+    super.dispose();
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: Text('Multi Window App'),
+        bottom: TabBar(
+          controller: _tabController,
+          tabs: [
+            Tab(text: 'Word Cards'),
+            Tab(text: 'Turkish Rules'),
+            Tab(text: 'Additional Content'),
+          ],
+        ),
+      ),
+      body: TabBarView(
+        controller: _tabController,
+        children: [
+          WordCardsScreen(),
+          TurkishRulesScreen(),
+          AdditionalContentScreen(),
+        ],
+      ),
+    );
+  }
+}
+
+// class WordCardsApp extends StatelessWidget {
+//   @override
+//   Widget build(BuildContext context) {
+//     return MaterialApp(
+//       title: 'Word Cards',
+//       theme: ThemeData(
+//         primarySwatch: Colors.blue,
+//       ),
+//       home: WordCardsScreen(),
+//     );
+//   }
+// }
 
 class WordCardsScreen extends StatefulWidget {
   @override
@@ -112,6 +172,68 @@ class _WordCardsScreenState extends State<WordCardsScreen> {
           ),
         ],
       ),
+    );
+  }
+}
+
+class TurkishRulesScreen extends StatelessWidget {
+  final List<Map<String, String>> rules = [
+    {
+      'title': 'Rule 1: Vowel Harmony',
+      'description':
+          'Turkish has a system of vowel harmony, where the vowels in a word must be either all front vowels or all back vowels.',
+      'examples': 'Example: ev (house), kitap (book)',
+    },
+    {
+      'title': 'Rule 2: Consonant Mutation',
+      'description':
+          'Certain consonants change form depending on the following vowel.',
+      'examples': 'Example: kitap -> kitaba (to the book)',
+    },
+    // Add more rules as needed
+  ];
+
+  @override
+  Widget build(BuildContext context) {
+    return ListView.builder(
+      itemCount: rules.length,
+      itemBuilder: (context, index) {
+        final rule = rules[index];
+        return Card(
+          margin: EdgeInsets.all(8.0),
+          child: Padding(
+            padding: const EdgeInsets.all(16.0),
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Text(
+                  rule['title']!,
+                  style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
+                ),
+                SizedBox(height: 8),
+                Text(
+                  rule['description']!,
+                  style: TextStyle(fontSize: 16),
+                ),
+                SizedBox(height: 8),
+                Text(
+                  rule['examples']!,
+                  style: TextStyle(fontSize: 16, color: Colors.grey),
+                ),
+              ],
+            ),
+          ),
+        );
+      },
+    );
+  }
+}
+
+class AdditionalContentScreen extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Center(
+      child: Text('Additional Content Screen'),
     );
   }
 }
