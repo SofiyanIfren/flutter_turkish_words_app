@@ -1,71 +1,876 @@
 [
     {
-      "tense": "Olmak (être) - Şimdiki zaman (prst continu)",
+      "tense": "Olmak (être)",
       "rows": [
         {
           "person": "1re pers. sing.",
-          "conjugation": "-(y)im",
+          "conjugation": "-(y)im (suffix)",
           "translation": "je suis"
         },
         {
           "person": "2e pers. sing.",
-          "conjugation": "-sin",
+          "conjugation": "-sin (suffix)",
           "translation": "tu es"
         },
         {
           "person": "3e pers. sing.",
-          "conjugation": "-(dir)",
+          "conjugation": "-(dir) (suffix)",
           "translation": "il/elle est"
         },
         {
           "person": "1re pers. plur.",
-          "conjugation": "-(y)iz",
+          "conjugation": "-(y)iz (suffix)",
           "translation": "nous sommes"
         },
         {
           "person": "2e pers. plur.",
-          "conjugation": "-siniz",
+          "conjugation": "-siniz (suffix)",
           "translation": "vous êtes"
         },
         {
           "person": "3e pers. plur.",
-          "conjugation": "-(dir)ler",
+          "conjugation": "-(dir)ler (suffix)",
           "translation": "ils/elles sont"
         }
       ]
     },
     {
-      "tense": "Bilmek (être) - Şimdiki zaman (prst continu)",
+      "tense": "Bilmek (être)",
       "rows": [
         {
           "person": "1re pers. sing.",
-          "conjugation": "biliyorum",
+          "conjugation": "Biliyorum",
           "translation": "je sais"
         },
         {
           "person": "2e pers. sing.",
-          "conjugation": "biliyorsun",
+          "conjugation": "Biliyorsun",
           "translation": "tu sais"
         },
         {
           "person": "3e pers. sing.",
-          "conjugation": "biliyor",
+          "conjugation": "Biliyor",
           "translation": "il/elle sait"
         },
         {
           "person": "1re pers. plur.",
-          "conjugation": "biliyoruz",
+          "conjugation": "Biliyoruz",
           "translation": "nous savons"
         },
         {
           "person": "2e pers. plur.",
-          "conjugation": "biliyorsunuz",
+          "conjugation": "Biliyorsunuz",
           "translation": "vous savez"
         },
         {
           "person": "3e pers. plur.",
-          "conjugation": "-biliyorlar",
+          "conjugation": "Biliyorlar",
           "translation": "ils/elles savent"
+        }
+      ]
+    },
+    {
+      "tense": "Almak (prendre)",
+      "rows": [
+        {
+          "person": "1re pers. sing.",
+          "conjugation": "Alıyorum",
+          "translation": "je prends"
+        },
+        {
+          "person": "2e pers. sing.",
+          "conjugation": "Alıyorsun",
+          "translation": "tu prends"
+        },
+        {
+          "person": "3e pers. sing.",
+          "conjugation": "Alıyor",
+          "translation": "il/elle prend"
+        },
+        {
+          "person": "1re pers. plur.",
+          "conjugation": "Alıyoruz",
+          "translation": "nous prenons"
+        },
+        {
+          "person": "2e pers. plur.",
+          "conjugation": "Alıyorsunuz",
+          "translation": "vous prenez"
+        },
+        {
+          "person": "3e pers. plur.",
+          "conjugation": "Alıyorlar",
+          "translation": "ils/elles prennent"
+        }
+      ]
+    },
+    {
+      "tense": "Yapmak (faire)",
+      "rows": [
+        {
+          "person": "1re pers. sing.",
+          "conjugation": "Yapıyorum",
+          "translation": "je fais"
+        },
+        {
+          "person": "2e pers. sing.",
+          "conjugation": "Yapıyorsun",
+          "translation": "tu fais"
+        },
+        {
+          "person": "3e pers. sing.",
+          "conjugation": "Yapıyor",
+          "translation": "il/elle fait"
+        },
+        {
+          "person": "1re pers. plur.",
+          "conjugation": "Yapıyoruz",
+          "translation": "nous faisons"
+        },
+        {
+          "person": "2e pers. plur.",
+          "conjugation": "Yapıyorsunuz",
+          "translation": "vous faîtes"
+        },
+        {
+          "person": "3e pers. plur.",
+          "conjugation": "Yapıyorlar",
+          "translation": "ils/elles font"
+        }
+      ]
+    },
+    {
+      "tense": "Çikmak (sortir)",
+      "rows": [
+        {
+          "person": "1re pers. sing.",
+          "conjugation": "Çikıyorum",
+          "translation": "je sors"
+        },
+        {
+          "person": "2e pers. sing.",
+          "conjugation": "Çikıyorsun",
+          "translation": "tu sors"
+        },
+        {
+          "person": "3e pers. sing.",
+          "conjugation": "Çikıyor",
+          "translation": "il/elle sort"
+        },
+        {
+          "person": "1re pers. plur.",
+          "conjugation": "Çikıyoruz",
+          "translation": "nous sortons"
+        },
+        {
+          "person": "2e pers. plur.",
+          "conjugation": "Çikıyorsunuz",
+          "translation": "vous sortez"
+        },
+        {
+          "person": "3e pers. plur.",
+          "conjugation": "Çikıyorlar",
+          "translation": "ils/elles sortent"
+        }
+      ]
+    },
+    {
+      "tense": "Sevmek (aimer)",
+      "rows": [
+        {
+          "person": "1re pers. sing.",
+          "conjugation": "Seviyorum",
+          "translation": "j'aime"
+        },
+        {
+          "person": "2e pers. sing.",
+          "conjugation": "Seviyorsun",
+          "translation": "tu aimes"
+        },
+        {
+          "person": "3e pers. sing.",
+          "conjugation": "Seviyor",
+          "translation": "il/elle aime"
+        },
+        {
+          "person": "1re pers. plur.",
+          "conjugation": "Seviyoruz",
+          "translation": "nous aimons"
+        },
+        {
+          "person": "2e pers. plur.",
+          "conjugation": "Seviyorsunuz",
+          "translation": "vous aimez"
+        },
+        {
+          "person": "3e pers. plur.",
+          "conjugation": "Seviyorlar",
+          "translation": "ils/elles aiment"
+        }
+      ]
+    },
+    {
+      "tense": "Gelmek (venir)",
+      "rows": [
+        {
+          "person": "1re pers. sing.",
+          "conjugation": "Geliyorum",
+          "translation": "je viens"
+        },
+        {
+          "person": "2e pers. sing.",
+          "conjugation": "Geliyorsun",
+          "translation": "tu viens"
+        },
+        {
+          "person": "3e pers. sing.",
+          "conjugation": "Geliyor",
+          "translation": "il/elle vient"
+        },
+        {
+          "person": "1re pers. plur.",
+          "conjugation": "Geliyoruz",
+          "translation": "nous venons"
+        },
+        {
+          "person": "2e pers. plur.",
+          "conjugation": "Geliyorsunuz",
+          "translation": "vous venez"
+        },
+        {
+          "person": "3e pers. plur.",
+          "conjugation": "Geliyorlar",
+          "translation": "ils/elles viennent"
+        }
+      ]
+    },
+    {
+      "tense": "Içmek (boire)",
+      "rows": [
+        {
+          "person": "1re pers. sing.",
+          "conjugation": "Içiyorum",
+          "translation": "je bois"
+        },
+        {
+          "person": "2e pers. sing.",
+          "conjugation": "Içiyorsun",
+          "translation": "tu bois"
+        },
+        {
+          "person": "3e pers. sing.",
+          "conjugation": "Içiyor",
+          "translation": "il/elle boit"
+        },
+        {
+          "person": "1re pers. plur.",
+          "conjugation": "Içiyoruz",
+          "translation": "nous buvons"
+        },
+        {
+          "person": "2e pers. plur.",
+          "conjugation": "Içiyorsunuz",
+          "translation": "vous buvez"
+        },
+        {
+          "person": "3e pers. plur.",
+          "conjugation": "Içiyorlar",
+          "translation": "ils/elles boivent"
+        }
+      ]
+    },
+    {
+      "tense": "Bilmek (savoir)",
+      "rows": [
+        {
+          "person": "1re pers. sing.",
+          "conjugation": "Biliyorum",
+          "translation": "je sais"
+        },
+        {
+          "person": "2e pers. sing.",
+          "conjugation": "Biliyorsun",
+          "translation": "tu sais"
+        },
+        {
+          "person": "3e pers. sing.",
+          "conjugation": "Biliyor",
+          "translation": "il/elle sait"
+        },
+        {
+          "person": "1re pers. plur.",
+          "conjugation": "Biliyoruz",
+          "translation": "nous savons"
+        },
+        {
+          "person": "2e pers. plur.",
+          "conjugation": "Biliyorsunuz",
+          "translation": "vous savez"
+        },
+        {
+          "person": "3e pers. plur.",
+          "conjugation": "Biliyorlar",
+          "translation": "ils/elles savent"
+        }
+      ]
+    },
+    {
+      "tense": "Girmek (entrer)",
+      "rows": [
+        {
+          "person": "1re pers. sing.",
+          "conjugation": "Giriyorum",
+          "translation": "j'entre"
+        },
+        {
+          "person": "2e pers. sing.",
+          "conjugation": "Giriyorsun",
+          "translation": "tu entres"
+        },
+        {
+          "person": "3e pers. sing.",
+          "conjugation": "Giriyor",
+          "translation": "il/elle entre"
+        },
+        {
+          "person": "1re pers. plur.",
+          "conjugation": "Giriyoruz",
+          "translation": "nous entrons"
+        },
+        {
+          "person": "2e pers. plur.",
+          "conjugation": "Giriyorsunuz",
+          "translation": "vous entrez"
+        },
+        {
+          "person": "3e pers. plur.",
+          "conjugation": "Giriyorlar",
+          "translation": "ils/elles entrent"
+        }
+      ]
+    },
+    {
+      "tense": "Gitmek (aller)",
+      "rows": [
+        {
+          "person": "1re pers. sing.",
+          "conjugation": "Gitiyorum",
+          "translation": "je vais"
+        },
+        {
+          "person": "2e pers. sing.",
+          "conjugation": "Gitiyorsun",
+          "translation": "tu vas"
+        },
+        {
+          "person": "3e pers. sing.",
+          "conjugation": "Gitiyor",
+          "translation": "il/elle va"
+        },
+        {
+          "person": "1re pers. plur.",
+          "conjugation": "Gitiyoruz",
+          "translation": "nous allons"
+        },
+        {
+          "person": "2e pers. plur.",
+          "conjugation": "Gitiyorsunuz",
+          "translation": "vous allez"
+        },
+        {
+          "person": "3e pers. plur.",
+          "conjugation": "Gitiyorlar",
+          "translation": "ils/elles vont"
+        }
+      ]
+    },
+    {
+      "tense": "Görmek (aller)",
+      "rows": [
+        {
+          "person": "1re pers. sing.",
+          "conjugation": "Görüyorum",
+          "translation": "je vois"
+        },
+        {
+          "person": "2e pers. sing.",
+          "conjugation": "Görüyorsun",
+          "translation": "tu vois"
+        },
+        {
+          "person": "3e pers. sing.",
+          "conjugation": "Görüyor",
+          "translation": "il/elle voit"
+        },
+        {
+          "person": "1re pers. plur.",
+          "conjugation": "Görüyoruz",
+          "translation": "nous voyons"
+        },
+        {
+          "person": "2e pers. plur.",
+          "conjugation": "Görüyorsunuz",
+          "translation": "vous voyez"
+        },
+        {
+          "person": "3e pers. plur.",
+          "conjugation": "Görüyorlar",
+          "translation": "ils/elles voient"
+        }
+      ]
+    },
+    {
+      "tense": "Gülmek (rire)",
+      "rows": [
+        {
+          "person": "1re pers. sing.",
+          "conjugation": "Gülüyorum",
+          "translation": "je ris"
+        },
+        {
+          "person": "2e pers. sing.",
+          "conjugation": "Gülüyorsun",
+          "translation": "tu ris"
+        },
+        {
+          "person": "3e pers. sing.",
+          "conjugation": "Gülüyor",
+          "translation": "il/elle rit"
+        },
+        {
+          "person": "1re pers. plur.",
+          "conjugation": "Gülüyoruz",
+          "translation": "nous rions"
+        },
+        {
+          "person": "2e pers. plur.",
+          "conjugation": "Gülüyorsunuz",
+          "translation": "vous riez"
+        },
+        {
+          "person": "3e pers. plur.",
+          "conjugation": "Gülüyorlar",
+          "translation": "ils/elles rient"
+        }
+      ]
+    },
+    {
+      "tense": "Bulmak (trouver)",
+      "rows": [
+        {
+          "person": "1re pers. sing.",
+          "conjugation": "Buluyorum",
+          "translation": "je trouve"
+        },
+        {
+          "person": "2e pers. sing.",
+          "conjugation": "Buluyorsun",
+          "translation": "tu trouves"
+        },
+        {
+          "person": "3e pers. sing.",
+          "conjugation": "Buluyor",
+          "translation": "il/elle trouve"
+        },
+        {
+          "person": "1re pers. plur.",
+          "conjugation": "Buluyoruz",
+          "translation": "nous trouvons"
+        },
+        {
+          "person": "2e pers. plur.",
+          "conjugation": "Buluyorsunuz",
+          "translation": "vous trouvez"
+        },
+        {
+          "person": "3e pers. plur.",
+          "conjugation": "Buluyorlar",
+          "translation": "ils/elles trouvent"
+        }
+      ]
+    },
+    {
+      "tense": "Tutmak (tenir)",
+      "rows": [
+        {
+          "person": "1re pers. sing.",
+          "conjugation": "Buluyorum",
+          "translation": "je tiens"
+        },
+        {
+          "person": "2e pers. sing.",
+          "conjugation": "Buluyorsun",
+          "translation": "tu tiens"
+        },
+        {
+          "person": "3e pers. sing.",
+          "conjugation": "Buluyor",
+          "translation": "il/elle tient"
+        },
+        {
+          "person": "1re pers. plur.",
+          "conjugation": "Buluyoruz",
+          "translation": "nous tenons"
+        },
+        {
+          "person": "2e pers. plur.",
+          "conjugation": "Buluyorsunuz",
+          "translation": "vous tenez"
+        },
+        {
+          "person": "3e pers. plur.",
+          "conjugation": "Buluyorlar",
+          "translation": "ils/elles tiennent"
+        }
+      ]
+    },
+    {
+      "tense": "Duymak (entendre)",
+      "rows": [
+        {
+          "person": "1re pers. sing.",
+          "conjugation": "Duyuyorum",
+          "translation": "j'entends"
+        },
+        {
+          "person": "2e pers. sing.",
+          "conjugation": "Duyuyorsun",
+          "translation": "tu entends"
+        },
+        {
+          "person": "3e pers. sing.",
+          "conjugation": "Duyuyor",
+          "translation": "il/elle entend"
+        },
+        {
+          "person": "1re pers. plur.",
+          "conjugation": "Duyuyoruz",
+          "translation": "nous entendons"
+        },
+        {
+          "person": "2e pers. plur.",
+          "conjugation": "Duyuyorsunuz",
+          "translation": "vous entendez"
+        },
+        {
+          "person": "3e pers. plur.",
+          "conjugation": "Duyuyorlar",
+          "translation": "ils/elles entendent"
+        }
+      ]
+    },
+    {
+      "tense": "Demek (dire)",
+      "rows": [
+        {
+          "person": "1re pers. sing.",
+          "conjugation": "Diyorum",
+          "translation": "je dis"
+        },
+        {
+          "person": "2e pers. sing.",
+          "conjugation": "Diyorsun",
+          "translation": "tu dis"
+        },
+        {
+          "person": "3e pers. sing.",
+          "conjugation": "Diyor",
+          "translation": "il/elle dit"
+        },
+        {
+          "person": "1re pers. plur.",
+          "conjugation": "Diyoruz",
+          "translation": "nous disons"
+        },
+        {
+          "person": "2e pers. plur.",
+          "conjugation": "Diyorsunuz",
+          "translation": "vous dites"
+        },
+        {
+          "person": "3e pers. plur.",
+          "conjugation": "Diyorlar",
+          "translation": "ils/elles disent"
+        }
+      ]
+    },
+    {
+      "tense": "Yaşamak (vivre)",
+      "rows": [
+        {
+          "person": "1re pers. sing.",
+          "conjugation": "Yaşıyorum",
+          "translation": "je vis"
+        },
+        {
+          "person": "2e pers. sing.",
+          "conjugation": "Yaşıyorsun",
+          "translation": "tu vis"
+        },
+        {
+          "person": "3e pers. sing.",
+          "conjugation": "Yaşıyor",
+          "translation": "il/elle vit"
+        },
+        {
+          "person": "1re pers. plur.",
+          "conjugation": "Yaşıyoruz",
+          "translation": "nous vivons"
+        },
+        {
+          "person": "2e pers. plur.",
+          "conjugation": "Yaşıyorsunuz",
+          "translation": "vous vivez"
+        },
+        {
+          "person": "3e pers. plur.",
+          "conjugation": "Yaşıyorlar",
+          "translation": "ils/elles vivent"
+        }
+      ]
+    },
+    {
+      "tense": "Taşımak (porter)",
+      "rows": [
+        {
+          "person": "1re pers. sing.",
+          "conjugation": "Taşıyorum",
+          "translation": "je porte"
+        },
+        {
+          "person": "2e pers. sing.",
+          "conjugation": "Taşıyorsun",
+          "translation": "tu portes"
+        },
+        {
+          "person": "3e pers. sing.",
+          "conjugation": "Taşıyor",
+          "translation": "il/elle porte"
+        },
+        {
+          "person": "1re pers. plur.",
+          "conjugation": "Taşıyoruz",
+          "translation": "nous portons"
+        },
+        {
+          "person": "2e pers. plur.",
+          "conjugation": "Taşıyorsunuz",
+          "translation": "vous portez"
+        },
+        {
+          "person": "3e pers. plur.",
+          "conjugation": "Taşıyorlar",
+          "translation": "ils/elles portent"
+        }
+      ]
+    },
+    {
+      "tense": "İstemek (vouloir)",
+      "rows": [
+        {
+          "person": "1re pers. sing.",
+          "conjugation": "İstiyorum",
+          "translation": "je veux"
+        },
+        {
+          "person": "2e pers. sing.",
+          "conjugation": "İstiyorsun",
+          "translation": "tu veux"
+        },
+        {
+          "person": "3e pers. sing.",
+          "conjugation": "İstiyor",
+          "translation": "il/elle veut"
+        },
+        {
+          "person": "1re pers. plur.",
+          "conjugation": "İstiyoruz",
+          "translation": "nous voulons"
+        },
+        {
+          "person": "2e pers. plur.",
+          "conjugation": "İstiyorsunuz",
+          "translation": "vous voulez"
+        },
+        {
+          "person": "3e pers. plur.",
+          "conjugation": "İstiyorlar",
+          "translation": "ils/elles veulent"
+        }
+      ]
+    },
+    {
+      "tense": "Söylemek (dire)",
+      "rows": [
+        {
+          "person": "1re pers. sing.",
+          "conjugation": "Söylüyorum",
+          "translation": "je dis"
+        },
+        {
+          "person": "2e pers. sing.",
+          "conjugation": "Söylüyorsun",
+          "translation": "tu dis"
+        },
+        {
+          "person": "3e pers. sing.",
+          "conjugation": "Söylüyor",
+          "translation": "il/elle dit"
+        },
+        {
+          "person": "1re pers. plur.",
+          "conjugation": "Söylüyoruz",
+          "translation": "nous disons"
+        },
+        {
+          "person": "2e pers. plur.",
+          "conjugation": "Söylüyorsunuz",
+          "translation": "vous dites"
+        },
+        {
+          "person": "3e pers. plur.",
+          "conjugation": "Söylüyorlar",
+          "translation": "ils/elles disent"
+        }
+      ]
+    },
+    {
+      "tense": "Okumak (lire)",
+      "rows": [
+        {
+          "person": "1re pers. sing.",
+          "conjugation": "Okuyorum",
+          "translation": "je lis"
+        },
+        {
+          "person": "2e pers. sing.",
+          "conjugation": "Okuyorsun",
+          "translation": "tu lis"
+        },
+        {
+          "person": "3e pers. sing.",
+          "conjugation": "Okuyor",
+          "translation": "il/elle lit"
+        },
+        {
+          "person": "1re pers. plur.",
+          "conjugation": "Okuyoruz",
+          "translation": "nous lisons"
+        },
+        {
+          "person": "2e pers. plur.",
+          "conjugation": "Okuyorsunuz",
+          "translation": "vous lisez"
+        },
+        {
+          "person": "3e pers. plur.",
+          "conjugation": "Okuyorlar",
+          "translation": "ils/elles lisent"
+        }
+      ]
+    },
+    {
+      "tense": "Büyümek (grandir)",
+      "rows": [
+        {
+          "person": "1re pers. sing.",
+          "conjugation": "Büyüyorum",
+          "translation": "je grandis"
+        },
+        {
+          "person": "2e pers. sing.",
+          "conjugation": "Büyüyorsun",
+          "translation": "tu grandis"
+        },
+        {
+          "person": "3e pers. sing.",
+          "conjugation": "Büyüyor",
+          "translation": "il/elle grandit"
+        },
+        {
+          "person": "1re pers. plur.",
+          "conjugation": "Büyüyoruz",
+          "translation": "nous grandissons"
+        },
+        {
+          "person": "2e pers. plur.",
+          "conjugation": "Büyüyorsunuz",
+          "translation": "vous grandissez"
+        },
+        {
+          "person": "3e pers. plur.",
+          "conjugation": "Büyüyorlar",
+          "translation": "ils/elles grandissent"
+        }
+      ]
+    },
+    {
+      "tense": "Çalışmak (travailler)",
+      "rows": [
+        {
+          "person": "1re pers. sing.",
+          "conjugation": "Çalışıyorum",
+          "translation": "je travaille"
+        },
+        {
+          "person": "2e pers. sing.",
+          "conjugation": "Çalışıyorsun",
+          "translation": "tu travailles"
+        },
+        {
+          "person": "3e pers. sing.",
+          "conjugation": "Çalışıyor",
+          "translation": "il/elle travaille"
+        },
+        {
+          "person": "1re pers. plur.",
+          "conjugation": "Çalışıyoruz",
+          "translation": "nous travaillons"
+        },
+        {
+          "person": "2e pers. plur.",
+          "conjugation": "Çalışıyorsunuz",
+          "translation": "vous travaillez"
+        },
+        {
+          "person": "3e pers. plur.",
+          "conjugation": "Çalışıyorlar",
+          "translation": "ils/elles travaillent"
+        }
+      ]
+    },
+    {
+      "tense": "Öğrenmek (apprendre)",
+      "rows": [
+        {
+          "person": "1re pers. sing.",
+          "conjugation": "Öğreniyorum",
+          "translation": "j'apprends"
+        },
+        {
+          "person": "2e pers. sing.",
+          "conjugation": "Öğreniyorsun",
+          "translation": "tu apprends"
+        },
+        {
+          "person": "3e pers. sing.",
+          "conjugation": "Öğreniyor",
+          "translation": "il/elle apprend"
+        },
+        {
+          "person": "1re pers. plur.",
+          "conjugation": "Öğreniyoruz",
+          "translation": "nous apprenons"
+        },
+        {
+          "person": "2e pers. plur.",
+          "conjugation": "Öğreniyorsunuz",
+          "translation": "vous apprenez"
+        },
+        {
+          "person": "3e pers. plur.",
+          "conjugation": "Öğreniyorlar",
+          "translation": "ils/elles apprennent"
         }
       ]
     }
