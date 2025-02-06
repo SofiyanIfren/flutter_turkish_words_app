@@ -1,14 +1,14 @@
 [
     {
-        "title": "Rule 1: Vowel Harmony",
+        "title": "Harmonie Vocalique",
         "description":
-            "Turkish has a system of vowel harmony, where the vowels in a word must be either all front vowels or all back vowels.",
-        "examples": "Example: ev (house), kitap (book)"
+            "- Suffixe -ler : e, i, ö, ü\n- Suffixe -lar : a, ı, o, u",
+        "examples": "Examples: Türkler, dağlar, çocuklar, bahçeler, radyatörler, adalar"
     },
     {
-        "title": "Rule 2: Consonant Mutation",
+        "title": "Pronoms personnels",
         "description":
-            "Certain consonants change form depending on the following vowel.",
-        "examples": "Example: kitap -> kitaba (to the book)"
+            "- Je : Ben\n- Tu : Sen\n- Il / Elle / Ce : O\n- Nous : Biz\n- Vous : Siz\n- Ils / Elles : Onlar\n",
+        "examples": "Dans la conjugaison, les pronoms sont facultatifs."
     }
 ]

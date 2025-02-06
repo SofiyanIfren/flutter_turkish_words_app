@@ -9,7 +9,7 @@ class MultiWindowApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Multi Window App',
+      title: 'Learn Turkish App',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),

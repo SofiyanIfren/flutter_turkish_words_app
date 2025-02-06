@@ -1,0 +1,38 @@
+[
+    {
+      "tense": "Şimdiki zaman (présent progressif)",
+      "rows": [
+        {
+          "person": "1re pers. sing.",
+          "suffix": "-(y)im",
+          "translation": "je suis"
+        },
+        {
+          "person": "2e pers. sing.",
+          "suffix": "-sin",
+          "translation": "tu es"
+        },
+        {
+          "person": "3e pers. sing.",
+          "suffix": "-(dir)",
+          "translation": "il/elle est"
+        },
+        {
+          "person": "1re pers. plur.",
+          "suffix": "-(y)iz",
+          "translation": "nous sommes"
+        },
+        {
+          "person": "2e pers. plur.",
+          "suffix": "-siniz",
+          "translation": "vous êtes"
+        },
+        {
+          "person": "3e pers. plur.",
+          "suffix": "-(dir)ler",
+          "translation": "ils/elles sont"
+        }
+      ]
+    }
+  ]
+  

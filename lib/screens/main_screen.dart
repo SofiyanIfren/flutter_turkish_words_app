@@ -2,7 +2,7 @@
 import 'package:flutter/material.dart';
 import 'word_cards_screen.dart';
 import 'turkish_rules_screen.dart';
-import 'additional_content_screen.dart';
+import 'conjugation_screen.dart';
 
 class MainScreen extends StatefulWidget {
   @override
@@ -29,13 +29,13 @@ class _MainScreenState extends State<MainScreen>
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Multi Window App'),
+        title: Text('Learn Turkish'),
         bottom: TabBar(
           controller: _tabController,
           tabs: [
-            Tab(text: 'Word Cards'),
+            Tab(text: 'Turkish Words'),
             Tab(text: 'Turkish Rules'),
-            Tab(text: 'Additional Content'),
+            Tab(text: 'Conjugation'),
           ],
         ),
       ),
@@ -44,7 +44,7 @@ class _MainScreenState extends State<MainScreen>
         children: [
           WordCardsScreen(),
           TurkishRulesScreen(),
-          AdditionalContentScreen(),
+          ConjugationScreen(),
         ],
       ),
     );
