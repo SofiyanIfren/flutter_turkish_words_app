@@ -43,7 +43,7 @@ class _WordCardsScreenState extends State<WordCardsScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Word Cards'),
+        title: Text('Turkish Words'),
       ),
       body: Column(
         children: [

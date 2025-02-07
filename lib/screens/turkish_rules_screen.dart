@@ -25,7 +25,7 @@ class _RuleCardsScreenState extends State<TurkishRulesScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Rule Cards'),
+        title: Text('Turkish Rules'),
       ),
       body: ListView.builder(
         itemCount: rules.length,

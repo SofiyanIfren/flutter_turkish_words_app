@@ -28,21 +28,21 @@ class ConjugationCard extends StatelessWidget {
                     TableCell(
                       child: Padding(
                         padding: const EdgeInsets.all(8.0),
-                        child: Text('Personne',
+                        child: Text('Past',
                             style: TextStyle(fontWeight: FontWeight.bold)),
                       ),
                     ),
                     TableCell(
                       child: Padding(
                         padding: const EdgeInsets.all(8.0),
-                        child: Text('Conjugaison',
+                        child: Text('Present',
                             style: TextStyle(fontWeight: FontWeight.bold)),
                       ),
                     ),
                     TableCell(
                       child: Padding(
                         padding: const EdgeInsets.all(8.0),
-                        child: Text('Traduction',
+                        child: Text('Future',
                             style: TextStyle(fontWeight: FontWeight.bold)),
                       ),
                     ),
@@ -53,19 +53,19 @@ class ConjugationCard extends StatelessWidget {
                         TableCell(
                           child: Padding(
                             padding: const EdgeInsets.all(8.0),
-                            child: Text(row.person),
+                            child: Text(row.pastTense),
                           ),
                         ),
                         TableCell(
                           child: Padding(
                             padding: const EdgeInsets.all(8.0),
-                            child: Text(row.conjugation),
+                            child: Text(row.presentTense),
                           ),
                         ),
                         TableCell(
                           child: Padding(
                             padding: const EdgeInsets.all(8.0),
-                            child: Text(row.translation),
+                            child: Text(row.futureTense),
                           ),
                         ),
                       ],

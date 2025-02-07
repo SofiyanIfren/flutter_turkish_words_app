@@ -33,9 +33,9 @@ class _MainScreenState extends State<MainScreen>
         bottom: TabBar(
           controller: _tabController,
           tabs: [
-            Tab(text: 'Turkish Words'),
-            Tab(text: 'Turkish Rules'),
+            Tab(text: 'Search Words'),
             Tab(text: 'Conjugation'),
+            Tab(text: 'Specific Rules'),
           ],
         ),
       ),
@@ -43,8 +43,8 @@ class _MainScreenState extends State<MainScreen>
         controller: _tabController,
         children: [
           WordCardsScreen(),
-          TurkishRulesScreen(),
           ConjugationScreen(),
+          TurkishRulesScreen(),
         ],
       ),
     );

@@ -1,876 +1,1681 @@
 [
     {
-      "tense": "Olmak (être)",
+      "verb": "1. Almak (prendre)",
       "rows": [
         {
-          "person": "1re pers. sing.",
-          "conjugation": "-(y)im (suffix)",
-          "translation": "je suis"
+          "pastTense": "Al‑dım",
+          "presentTense": "Al‑ı‑yorum",
+          "futureTense": "Al‑a‑cağım"
         },
         {
-          "person": "2e pers. sing.",
-          "conjugation": "-sin (suffix)",
-          "translation": "tu es"
+          "pastTense": "Al‑dın",
+          "presentTense": "Al‑ı‑yorsun",
+          "futureTense": "Al‑a‑caksın"
         },
         {
-          "person": "3e pers. sing.",
-          "conjugation": "-(dir) (suffix)",
-          "translation": "il/elle est"
+          "pastTense": "Al‑dı",
+          "presentTense": "Al‑ı‑yor",
+          "futureTense": "Al‑a‑cak"
         },
         {
-          "person": "1re pers. plur.",
-          "conjugation": "-(y)iz (suffix)",
-          "translation": "nous sommes"
+          "pastTense": "Al‑dık",
+          "presentTense": "Al‑ı‑yoruz",
+          "futureTense": "Al‑a‑cağız"
         },
         {
-          "person": "2e pers. plur.",
-          "conjugation": "-siniz (suffix)",
-          "translation": "vous êtes"
+          "pastTense": "Al‑dınız",
+          "presentTense": "Al‑ı‑yorsunuz",
+          "futureTense": "Al‑a‑caksınız"
         },
         {
-          "person": "3e pers. plur.",
-          "conjugation": "-(dir)ler (suffix)",
-          "translation": "ils/elles sont"
+          "pastTense": "Al‑dılar",
+          "presentTense": "Al‑ı‑yorlar",
+          "futureTense": "Al‑a‑caklar"
         }
       ]
     },
     {
-      "tense": "Bilmek (être)",
+      "verb": "2. Anmak (commémorer)",
       "rows": [
         {
-          "person": "1re pers. sing.",
-          "conjugation": "Biliyorum",
-          "translation": "je sais"
+          "pastTense": "An‑dım",
+          "presentTense": "An‑ı‑yorum",
+          "futureTense": "An‑a‑cağım"
         },
         {
-          "person": "2e pers. sing.",
-          "conjugation": "Biliyorsun",
-          "translation": "tu sais"
+          "pastTense": "An‑dın",
+          "presentTense": "An‑ı‑yorsun",
+          "futureTense": "An‑a‑caksın"
         },
         {
-          "person": "3e pers. sing.",
-          "conjugation": "Biliyor",
-          "translation": "il/elle sait"
+          "pastTense": "An‑dı",
+          "presentTense": "An‑ı‑yor",
+          "futureTense": "An‑a‑cak"
         },
         {
-          "person": "1re pers. plur.",
-          "conjugation": "Biliyoruz",
-          "translation": "nous savons"
+          "pastTense": "An‑dık",
+          "presentTense": "An‑ı‑yoruz",
+          "futureTense": "An‑a‑cağız"
         },
         {
-          "person": "2e pers. plur.",
-          "conjugation": "Biliyorsunuz",
-          "translation": "vous savez"
+          "pastTense": "An‑dınız",
+          "presentTense": "An‑ı‑yorsunuz",
+          "futureTense": "An‑a‑caksınız"
         },
         {
-          "person": "3e pers. plur.",
-          "conjugation": "Biliyorlar",
-          "translation": "ils/elles savent"
+          "pastTense": "An‑dılar",
+          "presentTense": "An‑ı‑yorlar",
+          "futureTense": "An‑a‑caklar"
         }
       ]
     },
     {
-      "tense": "Almak (prendre)",
+      "verb": "3. Tatmak (goûter)",
       "rows": [
         {
-          "person": "1re pers. sing.",
-          "conjugation": "Alıyorum",
-          "translation": "je prends"
+          "pastTense": "Tat‑tım",
+          "presentTense": "Tad‑ı‑yorum",
+          "futureTense": "Tad‑a‑cağım"
         },
         {
-          "person": "2e pers. sing.",
-          "conjugation": "Alıyorsun",
-          "translation": "tu prends"
+          "pastTense": "Tat‑tın",
+          "presentTense": "Tad‑ı‑yorsun",
+          "futureTense": "Tad‑a‑caksın"
         },
         {
-          "person": "3e pers. sing.",
-          "conjugation": "Alıyor",
-          "translation": "il/elle prend"
+          "pastTense": "Tat‑tı",
+          "presentTense": "Tad‑ı‑yor",
+          "futureTense": "Tad‑a‑cak"
         },
         {
-          "person": "1re pers. plur.",
-          "conjugation": "Alıyoruz",
-          "translation": "nous prenons"
+          "pastTense": "Tat‑tık",
+          "presentTense": "Tad‑ı‑yoruz",
+          "futureTense": "Tad‑a‑cağız"
         },
         {
-          "person": "2e pers. plur.",
-          "conjugation": "Alıyorsunuz",
-          "translation": "vous prenez"
+          "pastTense": "Tat‑tınız",
+          "presentTense": "Tad‑ı‑yorsunuz",
+          "futureTense": "Tad‑a‑caksınız"
         },
         {
-          "person": "3e pers. plur.",
-          "conjugation": "Alıyorlar",
-          "translation": "ils/elles prennent"
+          "pastTense": "Tat‑tılar",
+          "presentTense": "Tad‑ı‑yorlar",
+          "futureTense": "Tad‑a‑caklar"
         }
       ]
     },
     {
-      "tense": "Yapmak (faire)",
+      "verb": "4. Yapmak (faire)",
       "rows": [
         {
-          "person": "1re pers. sing.",
-          "conjugation": "Yapıyorum",
-          "translation": "je fais"
+          "pastTense": "Yap‑tım",
+          "presentTense": "Yap‑ı‑yorum",
+          "futureTense": "Yap‑a‑cağım"
         },
         {
-          "person": "2e pers. sing.",
-          "conjugation": "Yapıyorsun",
-          "translation": "tu fais"
+          "pastTense": "Yap‑tın",
+          "presentTense": "Yap‑ı‑yorsun",
+          "futureTense": "Yap‑a‑caksın"
         },
         {
-          "person": "3e pers. sing.",
-          "conjugation": "Yapıyor",
-          "translation": "il/elle fait"
+          "pastTense": "Yap‑tı",
+          "presentTense": "Yap‑ı‑yor",
+          "futureTense": "Yap‑a‑cak"
         },
         {
-          "person": "1re pers. plur.",
-          "conjugation": "Yapıyoruz",
-          "translation": "nous faisons"
+          "pastTense": "Yap‑tık",
+          "presentTense": "Yap‑ı‑yoruz",
+          "futureTense": "Yap‑a‑cağız"
         },
         {
-          "person": "2e pers. plur.",
-          "conjugation": "Yapıyorsunuz",
-          "translation": "vous faîtes"
+          "pastTense": "Yap‑tınız",
+          "presentTense": "Yap‑ı‑yorsunuz",
+          "futureTense": "Yap‑a‑caksınız"
         },
         {
-          "person": "3e pers. plur.",
-          "conjugation": "Yapıyorlar",
-          "translation": "ils/elles font"
+          "pastTense": "Yap‑tılar",
+          "presentTense": "Yap‑ı‑yorlar",
+          "futureTense": "Yap‑a‑caklar"
         }
       ]
     },
     {
-      "tense": "Çikmak (sortir)",
+      "verb": "5. Çıkmak (sortir)",
       "rows": [
         {
-          "person": "1re pers. sing.",
-          "conjugation": "Çikıyorum",
-          "translation": "je sors"
+          "pastTense": "Çık‑tım",
+          "presentTense": "Çık‑ı‑yorum",
+          "futureTense": "Çık‑a‑cağım"
         },
         {
-          "person": "2e pers. sing.",
-          "conjugation": "Çikıyorsun",
-          "translation": "tu sors"
+          "pastTense": "Çık‑tın",
+          "presentTense": "Çık‑ı‑yorsun",
+          "futureTense": "Çık‑a‑caksın"
         },
         {
-          "person": "3e pers. sing.",
-          "conjugation": "Çikıyor",
-          "translation": "il/elle sort"
+          "pastTense": "Çık‑tı",
+          "presentTense": "Çık‑ı‑yor",
+          "futureTense": "Çık‑a‑cak"
         },
         {
-          "person": "1re pers. plur.",
-          "conjugation": "Çikıyoruz",
-          "translation": "nous sortons"
+          "pastTense": "Çık‑tık",
+          "presentTense": "Çık‑ı‑yoruz",
+          "futureTense": "Çık‑a‑cağız"
         },
         {
-          "person": "2e pers. plur.",
-          "conjugation": "Çikıyorsunuz",
-          "translation": "vous sortez"
+          "pastTense": "Çık‑tınız",
+          "presentTense": "Çık‑ı‑yorsunuz",
+          "futureTense": "Çık‑a‑caksınız"
         },
         {
-          "person": "3e pers. plur.",
-          "conjugation": "Çikıyorlar",
-          "translation": "ils/elles sortent"
+          "pastTense": "Çık‑tılar",
+          "presentTense": "Çık‑ı‑yorlar",
+          "futureTense": "Çık‑a‑caklar"
         }
       ]
     },
     {
-      "tense": "Sevmek (aimer)",
+      "verb": "6. Kilmak (rendre)",
       "rows": [
         {
-          "person": "1re pers. sing.",
-          "conjugation": "Seviyorum",
-          "translation": "j'aime"
+          "pastTense": "Kıl‑dım",
+          "presentTense": "Kıl‑ı‑yorum",
+          "futureTense": "Kıl‑a‑cağım"
         },
         {
-          "person": "2e pers. sing.",
-          "conjugation": "Seviyorsun",
-          "translation": "tu aimes"
+          "pastTense": "Kıl‑dın",
+          "presentTense": "Kıl‑ı‑yorsun",
+          "futureTense": "Kıl‑a‑caksın"
         },
         {
-          "person": "3e pers. sing.",
-          "conjugation": "Seviyor",
-          "translation": "il/elle aime"
+          "pastTense": "Kıl‑dı",
+          "presentTense": "Kıl‑ı‑yor",
+          "futureTense": "Kıl‑a‑cak"
         },
         {
-          "person": "1re pers. plur.",
-          "conjugation": "Seviyoruz",
-          "translation": "nous aimons"
+          "pastTense": "Kıl‑dık",
+          "presentTense": "Kıl‑ı‑yoruz",
+          "futureTense": "Kıl‑a‑cağız"
         },
         {
-          "person": "2e pers. plur.",
-          "conjugation": "Seviyorsunuz",
-          "translation": "vous aimez"
+          "pastTense": "Kıl‑dınız",
+          "presentTense": "Kıl‑ı‑yorsunuz",
+          "futureTense": "Kıl‑a‑caksınız"
         },
         {
-          "person": "3e pers. plur.",
-          "conjugation": "Seviyorlar",
-          "translation": "ils/elles aiment"
+          "pastTense": "Kıl‑dılar",
+          "presentTense": "Kıl‑ı‑yorlar",
+          "futureTense": "Kıl‑a‑caklar"
         }
       ]
     },
     {
-      "tense": "Gelmek (venir)",
+      "verb": "7. Çekmek (tirer)",
       "rows": [
         {
-          "person": "1re pers. sing.",
-          "conjugation": "Geliyorum",
-          "translation": "je viens"
+          "pastTense": "Çek‑tim",
+          "presentTense": "Çek‑i‑yorum",
+          "futureTense": "Çek‑e‑ceğim"
         },
         {
-          "person": "2e pers. sing.",
-          "conjugation": "Geliyorsun",
-          "translation": "tu viens"
+          "pastTense": "Çek‑tin",
+          "presentTense": "Çek‑i‑yorsun",
+          "futureTense": "Çek‑e‑ceksin"
         },
         {
-          "person": "3e pers. sing.",
-          "conjugation": "Geliyor",
-          "translation": "il/elle vient"
+          "pastTense": "Çek‑ti",
+          "presentTense": "Çek‑i‑yor",
+          "futureTense": "Çek‑e‑cek"
         },
         {
-          "person": "1re pers. plur.",
-          "conjugation": "Geliyoruz",
-          "translation": "nous venons"
+          "pastTense": "Çek‑tik",
+          "presentTense": "Çek‑i‑yoruz",
+          "futureTense": "Çek‑e‑ceğiz"
         },
         {
-          "person": "2e pers. plur.",
-          "conjugation": "Geliyorsunuz",
-          "translation": "vous venez"
+          "pastTense": "Çek‑tiniz",
+          "presentTense": "Çek‑i‑yorsunuz",
+          "futureTense": "Çek‑e‑ceksiniz"
         },
         {
-          "person": "3e pers. plur.",
-          "conjugation": "Geliyorlar",
-          "translation": "ils/elles viennent"
+          "pastTense": "Çek‑tiler",
+          "presentTense": "Çek‑i‑yorlar",
+          "futureTense": "Çek‑e‑cekler"
         }
       ]
     },
     {
-      "tense": "Içmek (boire)",
+      "verb": "8. Sevmek (aimer)",
       "rows": [
         {
-          "person": "1re pers. sing.",
-          "conjugation": "Içiyorum",
-          "translation": "je bois"
+          "pastTense": "Sev‑dim",
+          "presentTense": "Sev‑i‑yorum",
+          "futureTense": "Sev‑e‑ceğim"
         },
         {
-          "person": "2e pers. sing.",
-          "conjugation": "Içiyorsun",
-          "translation": "tu bois"
+          "pastTense": "Sev‑din",
+          "presentTense": "Sev‑i‑yorsun",
+          "futureTense": "Sev‑e‑ceksin"
         },
         {
-          "person": "3e pers. sing.",
-          "conjugation": "Içiyor",
-          "translation": "il/elle boit"
+          "pastTense": "Sev‑di",
+          "presentTense": "Sev‑i‑yor",
+          "futureTense": "Sev‑e‑cek"
         },
         {
-          "person": "1re pers. plur.",
-          "conjugation": "Içiyoruz",
-          "translation": "nous buvons"
+          "pastTense": "Sev‑dik",
+          "presentTense": "Sev‑i‑yoruz",
+          "futureTense": "Sev‑e‑ceğiz"
         },
         {
-          "person": "2e pers. plur.",
-          "conjugation": "Içiyorsunuz",
-          "translation": "vous buvez"
+          "pastTense": "Sev‑diniz",
+          "presentTense": "Sev‑i‑yorsunuz",
+          "futureTense": "Sev‑e‑ceksiniz"
         },
         {
-          "person": "3e pers. plur.",
-          "conjugation": "Içiyorlar",
-          "translation": "ils/elles boivent"
+          "pastTense": "Sev‑diler",
+          "presentTense": "Sev‑i‑yorlar",
+          "futureTense": "Sev‑e‑cekler"
         }
       ]
     },
     {
-      "tense": "Bilmek (savoir)",
+      "verb": "9. Etmek (totaliser)",
       "rows": [
         {
-          "person": "1re pers. sing.",
-          "conjugation": "Biliyorum",
-          "translation": "je sais"
+          "pastTense": "Et‑tim",
+          "presentTense": "Ed‑i‑yorum",
+          "futureTense": "Ed‑e‑ceğim"
         },
         {
-          "person": "2e pers. sing.",
-          "conjugation": "Biliyorsun",
-          "translation": "tu sais"
+          "pastTense": "Et‑tin",
+          "presentTense": "Ed‑i‑yorsun",
+          "futureTense": "Ed‑e‑ceksin"
         },
         {
-          "person": "3e pers. sing.",
-          "conjugation": "Biliyor",
-          "translation": "il/elle sait"
+          "pastTense": "Et‑ti",
+          "presentTense": "Ed‑i‑yor",
+          "futureTense": "Ed‑e‑cek"
         },
         {
-          "person": "1re pers. plur.",
-          "conjugation": "Biliyoruz",
-          "translation": "nous savons"
+          "pastTense": "Et‑tik",
+          "presentTense": "Ed‑i‑yoruz",
+          "futureTense": "Ed‑e‑ceğiz"
         },
         {
-          "person": "2e pers. plur.",
-          "conjugation": "Biliyorsunuz",
-          "translation": "vous savez"
+          "pastTense": "Et‑tiniz",
+          "presentTense": "Ed‑i‑yorsunuz",
+          "futureTense": "Ed‑e‑ceksiniz"
         },
         {
-          "person": "3e pers. plur.",
-          "conjugation": "Biliyorlar",
-          "translation": "ils/elles savent"
+          "pastTense": "Et‑tiler",
+          "presentTense": "Ed‑i‑yorlar",
+          "futureTense": "Ed‑e‑cekler"
         }
       ]
     },
     {
-      "tense": "Girmek (entrer)",
+      "verb": "10. Gelmek (venir)",
       "rows": [
         {
-          "person": "1re pers. sing.",
-          "conjugation": "Giriyorum",
-          "translation": "j'entre"
+          "pastTense": "Gel‑dim",
+          "presentTense": "Gel‑i‑yorum",
+          "futureTense": "Gel‑e‑ceğim"
         },
         {
-          "person": "2e pers. sing.",
-          "conjugation": "Giriyorsun",
-          "translation": "tu entres"
+          "pastTense": "Gel‑din",
+          "presentTense": "Gel‑i‑yorsun",
+          "futureTense": "Gel‑e‑ceksin"
         },
         {
-          "person": "3e pers. sing.",
-          "conjugation": "Giriyor",
-          "translation": "il/elle entre"
+          "pastTense": "Gel‑di",
+          "presentTense": "Gel‑i‑yor",
+          "futureTense": "Gel‑e‑cek"
         },
         {
-          "person": "1re pers. plur.",
-          "conjugation": "Giriyoruz",
-          "translation": "nous entrons"
+          "pastTense": "Gel‑dik",
+          "presentTense": "Gel‑i‑yoruz",
+          "futureTense": "Gel‑e‑ceğiz"
         },
         {
-          "person": "2e pers. plur.",
-          "conjugation": "Giriyorsunuz",
-          "translation": "vous entrez"
+          "pastTense": "Gel‑diniz",
+          "presentTense": "Gel‑i‑yorsunuz",
+          "futureTense": "Gel‑e‑ceksiniz"
         },
         {
-          "person": "3e pers. plur.",
-          "conjugation": "Giriyorlar",
-          "translation": "ils/elles entrent"
+          "pastTense": "Gel‑diler",
+          "presentTense": "Gel‑i‑yorlar",
+          "futureTense": "Gel‑e‑cekler"
         }
       ]
     },
     {
-      "tense": "Gitmek (aller)",
+      "verb": "11. İçmek (boire)",
       "rows": [
         {
-          "person": "1re pers. sing.",
-          "conjugation": "Gitiyorum",
-          "translation": "je vais"
+          "pastTense": "İç‑tim",
+          "presentTense": "İç‑i‑yorum",
+          "futureTense": "İç‑e‑ceğim"
         },
         {
-          "person": "2e pers. sing.",
-          "conjugation": "Gitiyorsun",
-          "translation": "tu vas"
+          "pastTense": "İç‑tin",
+          "presentTense": "İç‑i‑yorsun",
+          "futureTense": "İç‑e‑ceksin"
         },
         {
-          "person": "3e pers. sing.",
-          "conjugation": "Gitiyor",
-          "translation": "il/elle va"
+          "pastTense": "İç‑ti",
+          "presentTense": "İç‑i‑yor",
+          "futureTense": "İç‑e‑cek"
         },
         {
-          "person": "1re pers. plur.",
-          "conjugation": "Gitiyoruz",
-          "translation": "nous allons"
+          "pastTense": "İç‑tik",
+          "presentTense": "İç‑i‑yoruz",
+          "futureTense": "İç‑e‑ceğiz"
         },
         {
-          "person": "2e pers. plur.",
-          "conjugation": "Gitiyorsunuz",
-          "translation": "vous allez"
+          "pastTense": "İç‑tiniz",
+          "presentTense": "İç‑i‑yorsunuz",
+          "futureTense": "İç‑e‑ceksiniz"
         },
         {
-          "person": "3e pers. plur.",
-          "conjugation": "Gitiyorlar",
-          "translation": "ils/elles vont"
+          "pastTense": "İç‑tiler",
+          "presentTense": "İç‑i‑yorlar",
+          "futureTense": "İç‑e‑cekler"
         }
       ]
     },
     {
-      "tense": "Görmek (aller)",
+      "verb": "12. Bilmek (savoir)",
       "rows": [
         {
-          "person": "1re pers. sing.",
-          "conjugation": "Görüyorum",
-          "translation": "je vois"
+          "pastTense": "Bil‑dim",
+          "presentTense": "Bil‑i‑yorum",
+          "futureTense": "Bil‑e‑ceğim"
         },
         {
-          "person": "2e pers. sing.",
-          "conjugation": "Görüyorsun",
-          "translation": "tu vois"
+          "pastTense": "Bil‑din",
+          "presentTense": "Bil‑i‑yorsun",
+          "futureTense": "Bil‑e‑ceksin"
         },
         {
-          "person": "3e pers. sing.",
-          "conjugation": "Görüyor",
-          "translation": "il/elle voit"
+          "pastTense": "Bil‑di",
+          "presentTense": "Bil‑i‑yor",
+          "futureTense": "Bil‑e‑cek"
         },
         {
-          "person": "1re pers. plur.",
-          "conjugation": "Görüyoruz",
-          "translation": "nous voyons"
+          "pastTense": "Bil‑dik",
+          "presentTense": "Bil‑i‑yoruz",
+          "futureTense": "Bil‑e‑ceğiz"
         },
         {
-          "person": "2e pers. plur.",
-          "conjugation": "Görüyorsunuz",
-          "translation": "vous voyez"
+          "pastTense": "Bil‑diniz",
+          "presentTense": "Bil‑i‑yorsunuz",
+          "futureTense": "Bil‑e‑ceksiniz"
         },
         {
-          "person": "3e pers. plur.",
-          "conjugation": "Görüyorlar",
-          "translation": "ils/elles voient"
+          "pastTense": "Bil‑diler",
+          "presentTense": "Bil‑i‑yorlar",
+          "futureTense": "Bil‑e‑cekler"
         }
       ]
     },
     {
-      "tense": "Gülmek (rire)",
+      "verb": "13. Girmek (entrer)",
       "rows": [
         {
-          "person": "1re pers. sing.",
-          "conjugation": "Gülüyorum",
-          "translation": "je ris"
+          "pastTense": "Gir‑dim",
+          "presentTense": "Gir‑i‑yorum",
+          "futureTense": "Gir‑e‑ceğim"
         },
         {
-          "person": "2e pers. sing.",
-          "conjugation": "Gülüyorsun",
-          "translation": "tu ris"
+          "pastTense": "Gir‑din",
+          "presentTense": "Gir‑i‑yorsun",
+          "futureTense": "Gir‑e‑ceksin"
         },
         {
-          "person": "3e pers. sing.",
-          "conjugation": "Gülüyor",
-          "translation": "il/elle rit"
+          "pastTense": "Gir‑di",
+          "presentTense": "Gir‑i‑yor",
+          "futureTense": "Gir‑e‑cek"
         },
         {
-          "person": "1re pers. plur.",
-          "conjugation": "Gülüyoruz",
-          "translation": "nous rions"
+          "pastTense": "Gir‑dik",
+          "presentTense": "Gir‑i‑yoruz",
+          "futureTense": "Gir‑e‑ceğiz"
         },
         {
-          "person": "2e pers. plur.",
-          "conjugation": "Gülüyorsunuz",
-          "translation": "vous riez"
+          "pastTense": "Gir‑diniz",
+          "presentTense": "Gir‑i‑yorsunuz",
+          "futureTense": "Gir‑e‑ceksiniz"
         },
         {
-          "person": "3e pers. plur.",
-          "conjugation": "Gülüyorlar",
-          "translation": "ils/elles rient"
+          "pastTense": "Gir‑diler",
+          "presentTense": "Gir‑i‑yorlar",
+          "futureTense": "Gir‑e‑cekler"
         }
       ]
     },
     {
-      "tense": "Bulmak (trouver)",
+      "verb": "14. Gitmek (aller)",
       "rows": [
         {
-          "person": "1re pers. sing.",
-          "conjugation": "Buluyorum",
-          "translation": "je trouve"
+          "pastTense": "Git‑tim",
+          "presentTense": "Gid‑i‑yorum",
+          "futureTense": "Gid‑e‑ceğim"
         },
         {
-          "person": "2e pers. sing.",
-          "conjugation": "Buluyorsun",
-          "translation": "tu trouves"
+          "pastTense": "Git‑tin",
+          "presentTense": "Gid‑i‑yorsun",
+          "futureTense": "Gid‑e‑ceksin"
         },
         {
-          "person": "3e pers. sing.",
-          "conjugation": "Buluyor",
-          "translation": "il/elle trouve"
+          "pastTense": "Git‑ti",
+          "presentTense": "Gid‑i‑yor",
+          "futureTense": "Gid‑e‑cek"
         },
         {
-          "person": "1re pers. plur.",
-          "conjugation": "Buluyoruz",
-          "translation": "nous trouvons"
+          "pastTense": "Git‑tik",
+          "presentTense": "Gid‑i‑yoruz",
+          "futureTense": "Gid‑e‑ceğiz"
         },
         {
-          "person": "2e pers. plur.",
-          "conjugation": "Buluyorsunuz",
-          "translation": "vous trouvez"
+          "pastTense": "Git‑tiniz",
+          "presentTense": "Gid‑i‑yorsunuz",
+          "futureTense": "Gid‑e‑ceksiniz"
         },
         {
-          "person": "3e pers. plur.",
-          "conjugation": "Buluyorlar",
-          "translation": "ils/elles trouvent"
+          "pastTense": "Git‑tiler",
+          "presentTense": "Gid‑i‑yorlar",
+          "futureTense": "Gid‑e‑cekler"
         }
       ]
     },
     {
-      "tense": "Tutmak (tenir)",
+      "verb": "15. Doğmak (naître)",
       "rows": [
         {
-          "person": "1re pers. sing.",
-          "conjugation": "Buluyorum",
-          "translation": "je tiens"
+          "pastTense": "Doğ‑dum",
+          "presentTense": "Doğ‑u‑yorum",
+          "futureTense": "Doğ‑a‑cağım"
         },
         {
-          "person": "2e pers. sing.",
-          "conjugation": "Buluyorsun",
-          "translation": "tu tiens"
+          "pastTense": "Doğ‑dun",
+          "presentTense": "Doğ‑u‑yorsun",
+          "futureTense": "Doğ‑a‑caksın"
         },
         {
-          "person": "3e pers. sing.",
-          "conjugation": "Buluyor",
-          "translation": "il/elle tient"
+          "pastTense": "Doğ‑du",
+          "presentTense": "Doğ‑u‑yor",
+          "futureTense": "Doğ‑a‑cak"
         },
         {
-          "person": "1re pers. plur.",
-          "conjugation": "Buluyoruz",
-          "translation": "nous tenons"
+          "pastTense": "Doğ‑duk",
+          "presentTense": "Doğ‑u‑yoruz",
+          "futureTense": "Doğ‑a‑cağız"
         },
         {
-          "person": "2e pers. plur.",
-          "conjugation": "Buluyorsunuz",
-          "translation": "vous tenez"
+          "pastTense": "Doğ‑dunuz",
+          "presentTense": "Doğ‑u‑yorsunuz",
+          "futureTense": "Doğ‑a‑caksınız"
         },
         {
-          "person": "3e pers. plur.",
-          "conjugation": "Buluyorlar",
-          "translation": "ils/elles tiennent"
+          "pastTense": "Doğ‑dular",
+          "presentTense": "Doğ‑u‑yorlar",
+          "futureTense": "Doğ‑a‑caklar"
         }
       ]
     },
     {
-      "tense": "Duymak (entendre)",
+      "verb": "16. Koşmak (courir)",
       "rows": [
         {
-          "person": "1re pers. sing.",
-          "conjugation": "Duyuyorum",
-          "translation": "j'entends"
+          "pastTense": "Koş‑tum",
+          "presentTense": "Koş‑u‑yorum",
+          "futureTense": "Koş‑a‑cağım"
         },
         {
-          "person": "2e pers. sing.",
-          "conjugation": "Duyuyorsun",
-          "translation": "tu entends"
+          "pastTense": "Koş‑tun",
+          "presentTense": "Koş‑u‑yorsun",
+          "futureTense": "Koş‑a‑caksın"
         },
         {
-          "person": "3e pers. sing.",
-          "conjugation": "Duyuyor",
-          "translation": "il/elle entend"
+          "pastTense": "Koş‑tu",
+          "presentTense": "Koş‑u‑yor",
+          "futureTense": "Koş‑a‑cak"
         },
         {
-          "person": "1re pers. plur.",
-          "conjugation": "Duyuyoruz",
-          "translation": "nous entendons"
+          "pastTense": "Koş‑tuk",
+          "presentTense": "Koş‑u‑yoruz",
+          "futureTense": "Koş‑a‑cağız"
         },
         {
-          "person": "2e pers. plur.",
-          "conjugation": "Duyuyorsunuz",
-          "translation": "vous entendez"
+          "pastTense": "Koş‑tunuz",
+          "presentTense": "Koş‑u‑yorsunuz",
+          "futureTense": "Koş‑a‑caksınız"
         },
         {
-          "person": "3e pers. plur.",
-          "conjugation": "Duyuyorlar",
-          "translation": "ils/elles entendent"
+          "pastTense": "Koş‑tular",
+          "presentTense": "Koş‑u‑yorlar",
+          "futureTense": "Koş‑a‑caklar"
+        }
+      ]
+    },    
+    {
+      "verb": "17. Olmak (être)",
+      "rows": [
+        {
+          "pastTense": "Ol‑dum",
+          "presentTense": "Ol‑u‑yorum",
+          "futureTense": "Ol‑a‑cağım"
+        },
+        {
+          "pastTense": "Ol‑dun",
+          "presentTense": "Ol‑u‑yorsun",
+          "futureTense": "Ol‑a‑caksın"
+        },
+        {
+          "pastTense": "Ol‑du",
+          "presentTense": "Ol‑u‑yor",
+          "futureTense": "Ol‑a‑cak"
+        },
+        {
+          "pastTense": "Ol‑duk",
+          "presentTense": "Ol‑u‑yoruz",
+          "futureTense": "Ol‑a‑cağız"
+        },
+        {
+          "pastTense": "Ol‑dunuz",
+          "presentTense": "Ol‑u‑yorsunuz",
+          "futureTense": "Ol‑a‑caksınız"
+        },
+        {
+          "pastTense": "Ol‑dular",
+          "presentTense": "Ol‑u‑yorlar",
+          "futureTense": "Ol‑a‑caklar"
         }
       ]
     },
     {
-      "tense": "Demek (dire)",
+      "verb": "18. Dönmek (tourner)",
       "rows": [
         {
-          "person": "1re pers. sing.",
-          "conjugation": "Diyorum",
-          "translation": "je dis"
+          "pastTense": "Dön‑düm",
+          "presentTense": "Dön‑ü‑yorum",
+          "futureTense": "Dön‑e‑ceğim"
         },
         {
-          "person": "2e pers. sing.",
-          "conjugation": "Diyorsun",
-          "translation": "tu dis"
+          "pastTense": "Dön‑dün",
+          "presentTense": "Dön‑ü‑yorsun",
+          "futureTense": "Dön‑e‑ceksin"
         },
         {
-          "person": "3e pers. sing.",
-          "conjugation": "Diyor",
-          "translation": "il/elle dit"
+          "pastTense": "Dön‑dü",
+          "presentTense": "Dön‑ü‑yor",
+          "futureTense": "Dön‑e‑cek"
         },
         {
-          "person": "1re pers. plur.",
-          "conjugation": "Diyoruz",
-          "translation": "nous disons"
+          "pastTense": "Dön‑dük",
+          "presentTense": "Dön‑ü‑yoruz",
+          "futureTense": "Dön‑e‑ceğiz"
         },
         {
-          "person": "2e pers. plur.",
-          "conjugation": "Diyorsunuz",
-          "translation": "vous dites"
+          "pastTense": "Dön‑dünüz",
+          "presentTense": "Dön‑ü‑yorsunuz",
+          "futureTense": "Dön‑e‑ceksiniz"
         },
         {
-          "person": "3e pers. plur.",
-          "conjugation": "Diyorlar",
-          "translation": "ils/elles disent"
+          "pastTense": "Dön‑düler",
+          "presentTense": "Dön‑ü‑yorlar",
+          "futureTense": "Dön‑e‑cekler"
         }
       ]
     },
     {
-      "tense": "Yaşamak (vivre)",
+      "verb": "19. Görmek (voir)",
       "rows": [
         {
-          "person": "1re pers. sing.",
-          "conjugation": "Yaşıyorum",
-          "translation": "je vis"
+          "pastTense": "Gör‑düm",
+          "presentTense": "Gör‑ü‑yorum",
+          "futureTense": "Gör‑e‑ceğim"
         },
         {
-          "person": "2e pers. sing.",
-          "conjugation": "Yaşıyorsun",
-          "translation": "tu vis"
+          "pastTense": "Gör‑dün",
+          "presentTense": "Gör‑ü‑yorsun",
+          "futureTense": "Gör‑e‑ceksin"
         },
         {
-          "person": "3e pers. sing.",
-          "conjugation": "Yaşıyor",
-          "translation": "il/elle vit"
+          "pastTense": "Gör‑dü",
+          "presentTense": "Gör‑ü‑yor",
+          "futureTense": "Gör‑e‑cek"
         },
         {
-          "person": "1re pers. plur.",
-          "conjugation": "Yaşıyoruz",
-          "translation": "nous vivons"
+          "pastTense": "Gör‑dük",
+          "presentTense": "Gör‑ü‑yoruz",
+          "futureTense": "Gör‑e‑ceğiz"
         },
         {
-          "person": "2e pers. plur.",
-          "conjugation": "Yaşıyorsunuz",
-          "translation": "vous vivez"
+          "pastTense": "Gör‑dünüz",
+          "presentTense": "Gör‑ü‑yorsunuz",
+          "futureTense": "Gör‑e‑ceksiniz"
         },
         {
-          "person": "3e pers. plur.",
-          "conjugation": "Yaşıyorlar",
-          "translation": "ils/elles vivent"
+          "pastTense": "Gör‑düler",
+          "presentTense": "Gör‑ü‑yorlar",
+          "futureTense": "Gör‑e‑cekler"
         }
       ]
     },
     {
-      "tense": "Taşımak (porter)",
+      "verb": "20. Öpmek (embrasser)",
       "rows": [
         {
-          "person": "1re pers. sing.",
-          "conjugation": "Taşıyorum",
-          "translation": "je porte"
+          "pastTense": "Öp‑tüm",
+          "presentTense": "Öp‑ü‑yorum",
+          "futureTense": "Öp‑e‑ceğim"
         },
         {
-          "person": "2e pers. sing.",
-          "conjugation": "Taşıyorsun",
-          "translation": "tu portes"
+          "pastTense": "Öp‑tün",
+          "presentTense": "Öp‑ü‑yorsun",
+          "futureTense": "Öp‑e‑ceksin"
         },
         {
-          "person": "3e pers. sing.",
-          "conjugation": "Taşıyor",
-          "translation": "il/elle porte"
+          "pastTense": "Öp‑tü",
+          "presentTense": "Öp‑ü‑yor",
+          "futureTense": "Öp‑e‑cek"
         },
         {
-          "person": "1re pers. plur.",
-          "conjugation": "Taşıyoruz",
-          "translation": "nous portons"
+          "pastTense": "Öp‑tük",
+          "presentTense": "Öp‑ü‑yoruz",
+          "futureTense": "Öp‑e‑ceğiz"
         },
         {
-          "person": "2e pers. plur.",
-          "conjugation": "Taşıyorsunuz",
-          "translation": "vous portez"
+          "pastTense": "Öp‑tünüz",
+          "presentTense": "Öp‑ü‑yorsunuz",
+          "futureTense": "Öp‑e‑ceksiniz"
         },
         {
-          "person": "3e pers. plur.",
-          "conjugation": "Taşıyorlar",
-          "translation": "ils/elles portent"
+          "pastTense": "Öp‑tüler",
+          "presentTense": "Öp‑ü‑yorlar",
+          "futureTense": "Öp‑e‑cekler"
         }
       ]
     },
     {
-      "tense": "İstemek (vouloir)",
+      "verb": "21. Düşmek (tomber)",
       "rows": [
         {
-          "person": "1re pers. sing.",
-          "conjugation": "İstiyorum",
-          "translation": "je veux"
+          "pastTense": "Düş‑tüm",
+          "presentTense": "Düş‑ü‑yorum",
+          "futureTense": "Düş‑e‑ceğim"
         },
         {
-          "person": "2e pers. sing.",
-          "conjugation": "İstiyorsun",
-          "translation": "tu veux"
+          "pastTense": "Düş‑tün",
+          "presentTense": "Düş‑ü‑yorsun",
+          "futureTense": "Düş‑e‑ceksin"
         },
         {
-          "person": "3e pers. sing.",
-          "conjugation": "İstiyor",
-          "translation": "il/elle veut"
+          "pastTense": "Düş‑tü",
+          "presentTense": "Düş‑ü‑yor",
+          "futureTense": "Düş‑e‑cek"
         },
         {
-          "person": "1re pers. plur.",
-          "conjugation": "İstiyoruz",
-          "translation": "nous voulons"
+          "pastTense": "Düş‑tük",
+          "presentTense": "Düş‑ü‑yoruz",
+          "futureTense": "Düş‑e‑ceğiz"
         },
         {
-          "person": "2e pers. plur.",
-          "conjugation": "İstiyorsunuz",
-          "translation": "vous voulez"
+          "pastTense": "Düş‑tünüz",
+          "presentTense": "Düş‑ü‑yorsunuz",
+          "futureTense": "Düş‑e‑ceksiniz"
         },
         {
-          "person": "3e pers. plur.",
-          "conjugation": "İstiyorlar",
-          "translation": "ils/elles veulent"
+          "pastTense": "Düş‑tüler",
+          "presentTense": "Düş‑ü‑yorlar",
+          "futureTense": "Düş‑e‑cekler"
         }
       ]
     },
     {
-      "tense": "Söylemek (dire)",
+      "verb": "22. Gülmek (rire)",
       "rows": [
         {
-          "person": "1re pers. sing.",
-          "conjugation": "Söylüyorum",
-          "translation": "je dis"
+          "pastTense": "Gül‑düm",
+          "presentTense": "Gül‑ü‑yorum",
+          "futureTense": "Gül‑e‑ceğim"
         },
         {
-          "person": "2e pers. sing.",
-          "conjugation": "Söylüyorsun",
-          "translation": "tu dis"
+          "pastTense": "Gül‑dün",
+          "presentTense": "Gül‑ü‑yorsun",
+          "futureTense": "Gül‑e‑ceksin"
         },
         {
-          "person": "3e pers. sing.",
-          "conjugation": "Söylüyor",
-          "translation": "il/elle dit"
+          "pastTense": "Gül‑dü",
+          "presentTense": "Gül‑ü‑yor",
+          "futureTense": "Gül‑e‑cek"
         },
         {
-          "person": "1re pers. plur.",
-          "conjugation": "Söylüyoruz",
-          "translation": "nous disons"
+          "pastTense": "Gül‑dük",
+          "presentTense": "Gül‑ü‑yoruz",
+          "futureTense": "Gül‑e‑ceğiz"
         },
         {
-          "person": "2e pers. plur.",
-          "conjugation": "Söylüyorsunuz",
-          "translation": "vous dites"
+          "pastTense": "Gül‑dünüz",
+          "presentTense": "Gül‑ü‑yorsunuz",
+          "futureTense": "Gül‑e‑ceksiniz"
         },
         {
-          "person": "3e pers. plur.",
-          "conjugation": "Söylüyorlar",
-          "translation": "ils/elles disent"
+          "pastTense": "Gül‑düler",
+          "presentTense": "Gül‑ü‑yorlar",
+          "futureTense": "Gül‑e‑cekler"
         }
       ]
     },
     {
-      "tense": "Okumak (lire)",
+      "verb": "23. Bulmak (trouver)",
       "rows": [
         {
-          "person": "1re pers. sing.",
-          "conjugation": "Okuyorum",
-          "translation": "je lis"
+          "pastTense": "Bul‑dum",
+          "presentTense": "Bul‑u‑yorum",
+          "futureTense": "Bul‑a‑cağım"
         },
         {
-          "person": "2e pers. sing.",
-          "conjugation": "Okuyorsun",
-          "translation": "tu lis"
+          "pastTense": "Bul‑dun",
+          "presentTense": "Bul‑u‑yorsun",
+          "futureTense": "Bul‑a‑caksın"
         },
         {
-          "person": "3e pers. sing.",
-          "conjugation": "Okuyor",
-          "translation": "il/elle lit"
+          "pastTense": "Bul‑du",
+          "presentTense": "Bul‑u‑yor",
+          "futureTense": "Bul‑a‑cak"
         },
         {
-          "person": "1re pers. plur.",
-          "conjugation": "Okuyoruz",
-          "translation": "nous lisons"
+          "pastTense": "Bul‑duk",
+          "presentTense": "Bul‑u‑yoruz",
+          "futureTense": "Bul‑a‑cağız"
         },
         {
-          "person": "2e pers. plur.",
-          "conjugation": "Okuyorsunuz",
-          "translation": "vous lisez"
+          "pastTense": "Bul‑dunuz",
+          "presentTense": "Bul‑u‑yorsunuz",
+          "futureTense": "Bul‑a‑caksınız"
         },
         {
-          "person": "3e pers. plur.",
-          "conjugation": "Okuyorlar",
-          "translation": "ils/elles lisent"
+          "pastTense": "Bul‑dular",
+          "presentTense": "Bul‑u‑yorlar",
+          "futureTense": "Bul‑a‑caklar"
         }
       ]
     },
     {
-      "tense": "Büyümek (grandir)",
+      "verb": "24. Tutmak (tenir)",
       "rows": [
         {
-          "person": "1re pers. sing.",
-          "conjugation": "Büyüyorum",
-          "translation": "je grandis"
+          "pastTense": "Tut‑tum",
+          "presentTense": "Tut‑u‑yorum",
+          "futureTense": "Tut‑a‑cağım"
         },
         {
-          "person": "2e pers. sing.",
-          "conjugation": "Büyüyorsun",
-          "translation": "tu grandis"
+          "pastTense": "Tut‑tun",
+          "presentTense": "Tut‑u‑yorsun",
+          "futureTense": "Tut‑a‑caksın"
         },
         {
-          "person": "3e pers. sing.",
-          "conjugation": "Büyüyor",
-          "translation": "il/elle grandit"
+          "pastTense": "Tut‑tu",
+          "presentTense": "Tut‑u‑yor",
+          "futureTense": "Tut‑a‑cak"
         },
         {
-          "person": "1re pers. plur.",
-          "conjugation": "Büyüyoruz",
-          "translation": "nous grandissons"
+          "pastTense": "Tut‑tuk",
+          "presentTense": "Tut‑u‑yoruz",
+          "futureTense": "Tut‑a‑cağız"
         },
         {
-          "person": "2e pers. plur.",
-          "conjugation": "Büyüyorsunuz",
-          "translation": "vous grandissez"
+          "pastTense": "Tut‑tunuz",
+          "presentTense": "Tut‑u‑yorsunuz",
+          "futureTense": "Tut‑a‑caksınız"
         },
         {
-          "person": "3e pers. plur.",
-          "conjugation": "Büyüyorlar",
-          "translation": "ils/elles grandissent"
+          "pastTense": "Tut‑tular",
+          "presentTense": "Tut‑u‑yorlar",
+          "futureTense": "Tut‑a‑caklar"
         }
       ]
     },
     {
-      "tense": "Çalışmak (travailler)",
+      "verb": "25. Duyma (entendre)",
       "rows": [
         {
-          "person": "1re pers. sing.",
-          "conjugation": "Çalışıyorum",
-          "translation": "je travaille"
+          "pastTense": "Duy‑dum",
+          "presentTense": "Duy‑u‑yorum",
+          "futureTense": "Duy‑a‑cağım"
         },
         {
-          "person": "2e pers. sing.",
-          "conjugation": "Çalışıyorsun",
-          "translation": "tu travailles"
+          "pastTense": "Duy‑dun",
+          "presentTense": "Duy‑u‑yorsun",
+          "futureTense": "Duy‑a‑caksın"
         },
         {
-          "person": "3e pers. sing.",
-          "conjugation": "Çalışıyor",
-          "translation": "il/elle travaille"
+          "pastTense": "Duy‑du",
+          "presentTense": "Duy‑u‑yor",
+          "futureTense": "Duy‑a‑cak"
         },
         {
-          "person": "1re pers. plur.",
-          "conjugation": "Çalışıyoruz",
-          "translation": "nous travaillons"
+          "pastTense": "Duy‑duk",
+          "presentTense": "Duy‑u‑yoruz",
+          "futureTense": "Duy‑a‑cağız"
         },
         {
-          "person": "2e pers. plur.",
-          "conjugation": "Çalışıyorsunuz",
-          "translation": "vous travaillez"
+          "pastTense": "Duy‑dunuz",
+          "presentTense": "Duy‑u‑yorsunuz",
+          "futureTense": "Duy‑a‑caksınız"
         },
         {
-          "person": "3e pers. plur.",
-          "conjugation": "Çalışıyorlar",
-          "translation": "ils/elles travaillent"
+          "pastTense": "Duy‑dular",
+          "presentTense": "Duy‑u‑yorlar",
+          "futureTense": "Duy‑a‑caklar"
         }
       ]
     },
     {
-      "tense": "Öğrenmek (apprendre)",
+      "verb": "26. Demek (dire)",
       "rows": [
         {
-          "person": "1re pers. sing.",
-          "conjugation": "Öğreniyorum",
-          "translation": "j'apprends"
+          "pastTense": "De‑dim",
+          "presentTense": "Di‑yorum",
+          "futureTense": "De‑ye‑ceğim"
         },
         {
-          "person": "2e pers. sing.",
-          "conjugation": "Öğreniyorsun",
-          "translation": "tu apprends"
+          "pastTense": "De‑din",
+          "presentTense": "Di‑yorsun",
+          "futureTense": "De‑ye‑ceksin"
         },
         {
-          "person": "3e pers. sing.",
-          "conjugation": "Öğreniyor",
-          "translation": "il/elle apprend"
+          "pastTense": "De‑di",
+          "presentTense": "Di‑yor",
+          "futureTense": "De‑ye‑cek"
         },
         {
-          "person": "1re pers. plur.",
-          "conjugation": "Öğreniyoruz",
-          "translation": "nous apprenons"
+          "pastTense": "De‑dik",
+          "presentTense": "Di‑yoruz",
+          "futureTense": "De‑ye‑ceğiz"
         },
         {
-          "person": "2e pers. plur.",
-          "conjugation": "Öğreniyorsunuz",
-          "translation": "vous apprenez"
+          "pastTense": "De‑diniz",
+          "presentTense": "Di‑yorsunuz",
+          "futureTense": "De‑ye‑ceksiniz"
         },
         {
-          "person": "3e pers. plur.",
-          "conjugation": "Öğreniyorlar",
-          "translation": "ils/elles apprennent"
+          "pastTense": "De‑diler",
+          "presentTense": "Di‑yorlar",
+          "futureTense": "De‑ye‑cekler"
+        }
+      ]
+    },
+    {
+      "verb": "27. Koymak (mettre)",
+      "rows": [
+        {
+          "pastTense": "Koy‑dum",
+          "presentTense": "Koy‑u‑yorum",
+          "futureTense": "Koy‑a‑cağım"
+        },
+        {
+          "pastTense": "Koy‑dun",
+          "presentTense": "Koy‑u‑yorsun",
+          "futureTense": "Koy‑a‑caksın"
+        },
+        {
+          "pastTense": "Koy‑du",
+          "presentTense": "Koy‑u‑yor",
+          "futureTense": "Koy‑a‑cak"
+        },
+        {
+          "pastTense": "Koy‑duk",
+          "presentTense": "Koy‑u‑yoruz",
+          "futureTense": "Koy‑a‑cağız"
+        },
+        {
+          "pastTense": "Koy‑dunuz",
+          "presentTense": "Koy‑u‑yorsunuz",
+          "futureTense": "Koy‑a‑caksınız"
+        },
+        {
+          "pastTense": "Koy‑dular",
+          "presentTense": "Koy‑u‑yorlar",
+          "futureTense": "Koy‑a‑caklar"
+        }
+      ]
+    },
+    {
+      "verb": "28. Yaşamak (vivre)",
+      "rows": [
+        {
+          "pastTense": "Yaşa‑dım",
+          "presentTense": "Yaş‑ı‑yorum",
+          "futureTense": "Yaşa‑y‑a‑cağım"
+        },
+        {
+          "pastTense": "Yaşa‑dın",
+          "presentTense": "Yaş‑ı‑yorsun",
+          "futureTense": "Yaşa‑y‑a‑caksın"
+        },
+        {
+          "pastTense": "Yaşa‑dı",
+          "presentTense": "Yaş‑ı‑yor",
+          "futureTense": "Yaşa‑y‑a‑cak"
+        },
+        {
+          "pastTense": "Yaşa‑dık",
+          "presentTense": "Yaş‑ı‑yoruz",
+          "futureTense": "Yaşa‑y‑a‑cağız"
+        },
+        {
+          "pastTense": "Yaşa‑dınız",
+          "presentTense": "Yaş‑ı‑yorsunuz",
+          "futureTense": "Yaşa‑y‑a‑caksınız"
+        },
+        {
+          "pastTense": "Yaşa‑dılar",
+          "presentTense": "Yaş‑ı‑yorlar",
+          "futureTense": "Yaşa‑y‑a‑caklar"
+        }
+      ]
+    },
+    {
+      "verb": "29. Yaşamak (vivre)",
+      "rows": [
+        {
+          "pastTense": "Yaşa‑dım",
+          "presentTense": "Yaş‑ı‑yorum",
+          "futureTense": "Yaşa‑y‑a‑cağım"
+        },
+        {
+          "pastTense": "Yaşa‑dın",
+          "presentTense": "Yaş‑ı‑yorsun",
+          "futureTense": "Yaşa‑y‑a‑caksın"
+        },
+        {
+          "pastTense": "Yaşa‑dı",
+          "presentTense": "Yaş‑ı‑yor",
+          "futureTense": "Yaşa‑y‑a‑cak"
+        },
+        {
+          "pastTense": "Yaşa‑dık",
+          "presentTense": "Yaş‑ı‑yoruz",
+          "futureTense": "Yaşa‑y‑a‑cağız"
+        },
+        {
+          "pastTense": "Yaşa‑dınız",
+          "presentTense": "Yaş‑ı‑yorsunuz",
+          "futureTense": "Yaşa‑y‑a‑caksınız"
+        },
+        {
+          "pastTense": "Yaşa‑dılar",
+          "presentTense": "Yaş‑ı‑yorlar",
+          "futureTense": "Yaşa‑y‑a‑caklar"
+        }
+      ]
+    },
+    {
+      "verb": "30. Toplamak (cueillir)",
+      "rows": [
+        {
+          "pastTense": "Topla‑dım",
+          "presentTense": "Topl‑u‑yorum",
+          "futureTense": "Topla‑y‑a‑cağım"
+        },
+        {
+          "pastTense": "Topla‑dın",
+          "presentTense": "Topl‑u‑yorsun",
+          "futureTense": "Topla‑y‑a‑caksın"
+        },
+        {
+          "pastTense": "Topla‑dı",
+          "presentTense": "Topl‑u‑yor",
+          "futureTense": "Topla‑y‑a‑cak"
+        },
+        {
+          "pastTense": "Topla‑dık",
+          "presentTense": "Topl‑u‑yoruz",
+          "futureTense": "Topla‑y‑a‑cağız"
+        },
+        {
+          "pastTense": "Topla‑dınız",
+          "presentTense": "Topl‑u‑yorsunuz",
+          "futureTense": "Topla‑y‑a‑caksınız"
+        },
+        {
+          "pastTense": "Topla‑dılar",
+          "presentTense": "Topl‑u‑yorlar",
+          "futureTense": "Topla‑y‑a‑caklar"
+        }
+      ]
+    },
+    {
+      "verb": "31. Taşımak (porter)",
+      "rows": [
+        {
+          "pastTense": "Taşı‑dım",
+          "presentTense": "Taşı‑yorum",
+          "futureTense": "Taşı‑y‑a‑cağım"
+        },
+        {
+          "pastTense": "Taşı‑dın",
+          "presentTense": "Taşı‑yorsun",
+          "futureTense": "Taşı‑y‑a‑caksın"
+        },
+        {
+          "pastTense": "Taşı‑dı",
+          "presentTense": "Taşı‑yor",
+          "futureTense": "Taşı‑y‑a‑cak"
+        },
+        {
+          "pastTense": "Taşı‑dık",
+          "presentTense": "Taşı‑yoruz",
+          "futureTense": "Taşı‑y‑a‑cağız"
+        },
+        {
+          "pastTense": "Taşı‑dınız",
+          "presentTense": "Taşı‑yorsunuz",
+          "futureTense": "Taşı‑y‑a‑caksınız"
+        },
+        {
+          "pastTense": "Taşı‑dılar",
+          "presentTense": "Taşı‑yorlar",
+          "futureTense": "Taşı‑y‑a‑caklar"
+        }
+      ]
+    },
+    {
+      "verb": "32. İstemek (vouloir)",
+      "rows": [
+        {
+          "pastTense": "İste‑dim",
+          "presentTense": "İsti‑yorum",
+          "futureTense": "İste‑y‑e‑ceğim"
+        },
+        {
+          "pastTense": "İste‑din",
+          "presentTense": "İsti‑yorsun",
+          "futureTense": "İste‑y‑e‑ceksin"
+        },
+        {
+          "pastTense": "İste‑di",
+          "presentTense": "İsti‑yor",
+          "futureTense": "İste‑y‑e‑cek"
+        },
+        {
+          "pastTense": "İste‑dik",
+          "presentTense": "İsti‑yoruz",
+          "futureTense": "İste‑y‑e‑ceğiz"
+        },
+        {
+          "pastTense": "İste‑diniz",
+          "presentTense": "İsti‑yorsunuz",
+          "futureTense": "İste‑y‑e‑ceksiniz"
+        },
+        {
+          "pastTense": "İste‑diler",
+          "presentTense": "İsti‑yorlar",
+          "futureTense": "İste‑y‑e‑cekler"
+        }
+      ]
+    },
+    {
+      "verb": "33. Söylemek (dire)",
+      "rows": [
+        {
+          "pastTense": "Söyle‑dim",
+          "presentTense": "Söylü‑yorum",
+          "futureTense": "Söyle‑y‑e‑ceğim"
+        },
+        {
+          "pastTense": "Söyle‑din",
+          "presentTense": "Söylü‑yorsun",
+          "futureTense": "Söyle‑y‑e‑ceksin"
+        },
+        {
+          "pastTense": "Söyle‑di",
+          "presentTense": "Söylü‑yor",
+          "futureTense": "Söyle‑y‑e‑cek"
+        },
+        {
+          "pastTense": "Söyle‑dik",
+          "presentTense": "Söylü‑yoruz",
+          "futureTense": "Söyle‑y‑e‑ceğiz"
+        },
+        {
+          "pastTense": "Söyle‑diniz",
+          "presentTense": "Söylü‑yorsunuz",
+          "futureTense": "Söyle‑y‑e‑ceksiniz"
+        },
+        {
+          "pastTense": "Söyle‑diler",
+          "presentTense": "Söylü‑yorlar",
+          "futureTense": "Söyle‑y‑e‑cekler"
+        }
+      ]
+    },
+    {
+      "verb": "34. Eskimek (user)",
+      "rows": [
+        {
+          "pastTense": "Eski‑dim",
+          "presentTense": "Eski‑yorum",
+          "futureTense": "Eski‑y‑e‑ceğim"
+        },
+        {
+          "pastTense": "Eski‑din",
+          "presentTense": "Eski‑yorsun",
+          "futureTense": "Eski‑y‑e‑ceksin"
+        },
+        {
+          "pastTense": "Eski‑di",
+          "presentTense": "Eski‑yor",
+          "futureTense": "Eski‑y‑e‑cek"
+        },
+        {
+          "pastTense": "Eski‑dik",
+          "presentTense": "Eski‑yoruz",
+          "futureTense": "Eski‑y‑e‑ceğiz"
+        },
+        {
+          "pastTense": "Eski‑diniz",
+          "presentTense": "Eski‑yorsunuz",
+          "futureTense": "Eski‑y‑e‑ceksiniz"
+        },
+        {
+          "pastTense": "Eski‑diler",
+          "presentTense": "Eski‑yorlar",
+          "futureTense": "Eski‑y‑e‑cekler"
+        }
+      ]
+    },
+    {
+      "verb": "35. Okumak (lire)",
+      "rows": [
+        {
+          "pastTense": "Oku‑dum",
+          "presentTense": "Oku‑yorum",
+          "futureTense": "Oku‑y‑a‑cağım"
+        },
+        {
+          "pastTense": "Oku‑dun",
+          "presentTense": "Oku‑yorsun",
+          "futureTense": "Oku‑y‑a‑caksın"
+        },
+        {
+          "pastTense": "Oku‑du",
+          "presentTense": "Oku‑yor",
+          "futureTense": "Oku‑y‑a‑cak"
+        },
+        {
+          "pastTense": "Oku‑duk",
+          "presentTense": "Oku‑yoruz",
+          "futureTense": "Oku‑y‑a‑cağız"
+        },
+        {
+          "pastTense": "Oku‑dunuz",
+          "presentTense": "Oku‑yorsunuz",
+          "futureTense": "Oku‑y‑a‑caksınız"
+        },
+        {
+          "pastTense": "Oku‑dular",
+          "presentTense": "Oku‑yorlar",
+          "futureTense": "Oku‑y‑a‑caklar"
+        }
+      ]
+    },
+    {
+      "verb": "36. Büyümek (grandir)",
+      "rows": [
+        {
+          "pastTense": "Büyü‑düm",
+          "presentTense": "Büyü‑yorum",
+          "futureTense": "Büyü‑y‑e‑ceğim"
+        },
+        {
+          "pastTense": "Büyü‑dün",
+          "presentTense": "Büyü‑yorsun",
+          "futureTense": "Büyü‑y‑e‑ceksin"
+        },
+        {
+          "pastTense": "Büyü‑dü",
+          "presentTense": "Büyü‑yor",
+          "futureTense": "Büyü‑y‑e‑cek"
+        },
+        {
+          "pastTense": "Büyü‑dük",
+          "presentTense": "Büyü‑yoruz",
+          "futureTense": "Büyü‑y‑e‑ceğiz"
+        },
+        {
+          "pastTense": "Büyü‑dünüz",
+          "presentTense": "Büyü‑yorsunuz",
+          "futureTense": "Büyü‑y‑e‑ceksiniz"
+        },
+        {
+          "pastTense": "Büyü‑düler",
+          "presentTense": "Büyü‑yorlar",
+          "futureTense": "Büyü‑y‑e‑cekler"
+        }
+      ]
+    },
+    {
+      "verb": "37. Hoşlanmak (plaire à)",
+      "rows": [
+        {
+          "pastTense": "Hoşlan‑dım",
+          "presentTense": "Hoşlan‑ı‑yorum",
+          "futureTense": "Hoşlan‑a‑cağım"
+        },
+        {
+          "pastTense": "Hoşlan‑dın",
+          "presentTense": "Hoşlan‑ı‑yorsun",
+          "futureTense": "Hoşlan‑a‑caksın"
+        },
+        {
+          "pastTense": "Hoşlan‑dı",
+          "presentTense": "Hoşlan‑ı‑yor",
+          "futureTense": "Hoşlan‑a‑cak"
+        },
+        {
+          "pastTense": "Hoşlan‑dık",
+          "presentTense": "Hoşlan‑ı‑yoruz",
+          "futureTense": "Hoşlan‑a‑cağız"
+        },
+        {
+          "pastTense": "Hoşlan‑dınız",
+          "presentTense": "Hoşlan‑ı‑yorsunuz",
+          "futureTense": "Hoşlan‑a‑caksınız"
+        },
+        {
+          "pastTense": "Hoşlan‑dılar",
+          "presentTense": "Hoşlan‑ı‑yorlar",
+          "futureTense": "Hoşlan‑a‑caklar"
+        }
+      ]
+    },
+    {
+      "verb": "38. Anlatmak (raconter)",
+      "rows": [
+        {
+          "pastTense": "Anlat‑tım",
+          "presentTense": "Anlat‑ı‑yorum",
+          "futureTense": "Anlat‑a‑cağım"
+        },
+        {
+          "pastTense": "Anlat‑tın",
+          "presentTense": "Anlat‑ı‑yorsun",
+          "futureTense": "Anlat‑a‑caksın"
+        },
+        {
+          "pastTense": "Anlat‑tı",
+          "presentTense": "Anlat‑ı‑yor",
+          "futureTense": "Anlat‑a‑cak"
+        },
+        {
+          "pastTense": "Anlat‑tık",
+          "presentTense": "Anlat‑ı‑yoruz",
+          "futureTense": "Anlat‑a‑cağız"
+        },
+        {
+          "pastTense": "Anlat‑tınız",
+          "presentTense": "Anlat‑ı‑yorsunuz",
+          "futureTense": "Anlat‑a‑caksınız"
+        },
+        {
+          "pastTense": "Anlat‑tılar",
+          "presentTense": "Anlat‑ı‑yorlar",
+          "futureTense": "Anlat‑a‑caklar"
+        }
+      ]
+    },
+    {
+      "verb": "39. Bağırmak (crier)",
+      "rows": [
+        {
+          "pastTense": "Bağır‑dım",
+          "presentTense": "Bağır‑ı‑yorum",
+          "futureTense": "Bağır‑a‑cağım"
+        },
+        {
+          "pastTense": "Bağır‑dın",
+          "presentTense": "Bağır‑ı‑yorsun",
+          "futureTense": "Bağır‑a‑caksın"
+        },
+        {
+          "pastTense": "Bağır‑dı",
+          "presentTense": "Bağır‑ı‑yor",
+          "futureTense": "Bağır‑a‑cak"
+        },
+        {
+          "pastTense": "Bağır‑dık",
+          "presentTense": "Bağır‑ı‑yoruz",
+          "futureTense": "Bağır‑a‑cağız"
+        },
+        {
+          "pastTense": "Bağır‑dınız",
+          "presentTense": "Bağır‑ı‑yorsunuz",
+          "futureTense": "Bağır‑a‑caksınız"
+        },
+        {
+          "pastTense": "Bağır‑dılar",
+          "presentTense": "Bağır‑ı‑yorlar",
+          "futureTense": "Bağır‑a‑caklar"
+        }
+      ]
+    },
+    {
+      "verb": "40. Çalışmak (travailler)",
+      "rows": [
+        {
+          "pastTense": "Çalış‑tım",
+          "presentTense": "Çalış‑ı‑yorum",
+          "futureTense": "Çalış‑a‑cağım"
+        },
+        {
+          "pastTense": "Çalış‑tın",
+          "presentTense": "Çalış‑ı‑yorsun",
+          "futureTense": "Çalış‑a‑caksın"
+        },
+        {
+          "pastTense": "Çalış‑tı",
+          "presentTense": "Çalış‑ı‑yor",
+          "futureTense": "Çalış‑a‑cak"
+        },
+        {
+          "pastTense": "Çalış‑tık",
+          "presentTense": "Çalış‑ı‑yoruz",
+          "futureTense": "Çalış‑a‑cağız"
+        },
+        {
+          "pastTense": "Çalış‑tınız",
+          "presentTense": "Çalış‑ı‑yorsunuz",
+          "futureTense": "Çalış‑a‑caksınız"
+        },
+        {
+          "pastTense": "Çalış‑tılar",
+          "presentTense": "Çalış‑ı‑yorlar",
+          "futureTense": "Çalış‑a‑caklar"
+        }
+      ]
+    },
+    {
+      "verb": "41. Öğrenmek (apprendre)",
+      "rows": [
+        {
+          "pastTense": "Öğren‑dim",
+          "presentTense": "Öğren‑i‑yorum",
+          "futureTense": "Öğren‑e‑ceğim"
+        },
+        {
+          "pastTense": "Öğren‑din",
+          "presentTense": "Öğren‑i‑yorsun",
+          "futureTense": "Öğren‑e‑ceksin"
+        },
+        {
+          "pastTense": "Öğren‑di",
+          "presentTense": "Öğren‑i‑yor",
+          "futureTense": "Öğren‑e‑cek"
+        },
+        {
+          "pastTense": "Öğren‑dik",
+          "presentTense": "Öğren‑i‑yoruz",
+          "futureTense": "Öğren‑e‑ceğiz"
+        },
+        {
+          "pastTense": "Öğren‑diniz",
+          "presentTense": "Öğren‑i‑yorsunuz",
+          "futureTense": "Öğren‑e‑ceksiniz"
+        },
+        {
+          "pastTense": "Öğren‑diler",
+          "presentTense": "Öğren‑i‑yorlar",
+          "futureTense": "Öğren‑e‑cekler"
+        }
+      ]
+    },
+    {
+      "verb": "42. Bekletmek (retenir)",
+      "rows": [
+        {
+          "pastTense": "Beklet‑tim",
+          "presentTense": "Beklet‑i‑yorum",
+          "futureTense": "Beklet‑e‑ceğim"
+        },
+        {
+          "pastTense": "Beklet‑tin",
+          "presentTense": "Beklet‑i‑yorsun",
+          "futureTense": "Beklet‑e‑ceksin"
+        },
+        {
+          "pastTense": "Beklet‑ti",
+          "presentTense": "Beklet‑i‑yor",
+          "futureTense": "Beklet‑e‑cek"
+        },
+        {
+          "pastTense": "Beklet‑tik",
+          "presentTense": "Beklet‑i‑yoruz",
+          "futureTense": "Beklet‑e‑ceğiz"
+        },
+        {
+          "pastTense": "Beklet‑tiniz",
+          "presentTense": "Beklet‑i‑yorsunuz",
+          "futureTense": "Beklet‑e‑ceksiniz"
+        },
+        {
+          "pastTense": "Beklet‑tiler",
+          "presentTense": "Beklet‑i‑yorlar",
+          "futureTense": "Beklet‑e‑cekler"
+        }
+      ]
+    },
+    {
+      "verb": "43. Pişirmek (Cuisiner)",
+      "rows": [
+        {
+          "pastTense": "Pişir‑dim",
+          "presentTense": "Pişir‑i‑yorum",
+          "futureTense": "Pişir‑e‑ceğim"
+        },
+        {
+          "pastTense": "Pişir‑din",
+          "presentTense": "Pişir‑i‑yorsun",
+          "futureTense": "Pişir‑e‑ceksin"
+        },
+        {
+          "pastTense": "Pişir‑di",
+          "presentTense": "Pişir‑i‑yor",
+          "futureTense": "Pişir‑e‑cek"
+        },
+        {
+          "pastTense": "Pişir‑dik",
+          "presentTense": "Pişir‑i‑yoruz",
+          "futureTense": "Pişir‑e‑ceğiz"
+        },
+        {
+          "pastTense": "Pişir‑diniz",
+          "presentTense": "Pişir‑i‑yorsunuz",
+          "futureTense": "Pişir‑e‑ceksiniz"
+        },
+        {
+          "pastTense": "Pişir‑diler",
+          "presentTense": "Pişir‑i‑yorlar",
+          "futureTense": "Pişir‑e‑cekler"
+        }
+      ]
+    },
+    {
+      "verb": "44. İşitmek (Entendre)",
+      "rows": [
+        {
+          "pastTense": "İşit‑tim",
+          "presentTense": "İşit‑i‑yorum",
+          "futureTense": "İşit‑e‑ceğim"
+        },
+        {
+          "pastTense": "İşit‑tin",
+          "presentTense": "İşit‑i‑yorsun",
+          "futureTense": "İşit‑e‑ceksin"
+        },
+        {
+          "pastTense": "İşit‑ti",
+          "presentTense": "İşit‑i‑yor",
+          "futureTense": "İşit‑e‑cek"
+        },
+        {
+          "pastTense": "İşit‑tik",
+          "presentTense": "İşit‑i‑yoruz",
+          "futureTense": "İşit‑e‑ceğiz"
+        },
+        {
+          "pastTense": "İşit‑tiniz",
+          "presentTense": "İşit‑i‑yorsunuz",
+          "futureTense": "İşit‑e‑ceksiniz"
+        },
+        {
+          "pastTense": "İşit‑tiler",
+          "presentTense": "İşit‑i‑yorlar",
+          "futureTense": "İşit‑e‑cekler"
+        }
+      ]
+    },
+    {
+      "verb": "45. Oturmak (Asseoir)",
+      "rows": [
+        {
+          "pastTense": "Otur‑dum",
+          "presentTense": "Otur‑u‑yorum",
+          "futureTense": "Otur‑a‑cağım"
+        },
+        {
+          "pastTense": "Otur‑dun",
+          "presentTense": "Otur‑u‑yorsun",
+          "futureTense": "Otur‑a‑caksın"
+        },
+        {
+          "pastTense": "Otur‑du",
+          "presentTense": "Otur‑u‑yor",
+          "futureTense": "Otur‑a‑cak"
+        },
+        {
+          "pastTense": "Otur‑duk",
+          "presentTense": "Otur‑u‑yoruz",
+          "futureTense": "Otur‑a‑cağız"
+        },
+        {
+          "pastTense": "Otur‑dunuz",
+          "presentTense": "Otur‑u‑yorsunuz",
+          "futureTense": "Otur‑a‑caksınız"
+        },
+        {
+          "pastTense": "Otur‑dular",
+          "presentTense": "Otur‑u‑yorlar",
+          "futureTense": "Otur‑a‑caklar"
+        }
+      ]
+    },
+    {
+      "verb": "46. Konuşmak (Parler)",
+      "rows": [
+        {
+          "pastTense": "Konuş‑tum",
+          "presentTense": "Konuş‑u‑yorum",
+          "futureTense": "Konuş‑a‑cağım"
+        },
+        {
+          "pastTense": "Konuş‑tun",
+          "presentTense": "Konuş‑u‑yorsun",
+          "futureTense": "Konuş‑a‑caksın"
+        },
+        {
+          "pastTense": "Konuş‑tu",
+          "presentTense": "Konuş‑u‑yor",
+          "futureTense": "Konuş‑a‑cak"
+        },
+        {
+          "pastTense": "Konuş‑tuk",
+          "presentTense": "Konuş‑u‑yoruz",
+          "futureTense": "Konuş‑a‑cağız"
+        },
+        {
+          "pastTense": "Konuş‑tunuz",
+          "presentTense": "Konuş‑u‑yorsunuz",
+          "futureTense": "Konuş‑a‑caksınız"
+        },
+        {
+          "pastTense": "Konuş‑tular",
+          "presentTense": "Konuş‑u‑yorlar",
+          "futureTense": "Konuş‑a‑caklar"
+        }
+      ]
+    },
+    {
+      "verb": "47. Düşünmek (Penser)",
+      "rows": [
+        {
+          "pastTense": "Düşün‑düm",
+          "presentTense": "Düşün‑ü‑yorum",
+          "futureTense": "Düşün‑e‑ceğim"
+        },
+        {
+          "pastTense": "Düşün‑dün",
+          "presentTense": "Düşün‑ü‑yorsun",
+          "futureTense": "Düşün‑e‑ceksin"
+        },
+        {
+          "pastTense": "Düşün‑dü",
+          "presentTense": "Düşün‑ü‑yor",
+          "futureTense": "Düşün‑e‑cek"
+        },
+        {
+          "pastTense": "Düşün‑dük",
+          "presentTense": "Düşün‑ü‑yoruz",
+          "futureTense": "Düşün‑e‑ceğiz"
+        },
+        {
+          "pastTense": "Düşün‑dünüz",
+          "presentTense": "Düşün‑ü‑yorsunuz",
+          "futureTense": "Düşün‑e‑ceksiniz"
+        },
+        {
+          "pastTense": "Düşün‑düler",
+          "presentTense": "Düşün‑ü‑yorlar",
+          "futureTense": "Düşün‑e‑cekler"
+        }
+      ]
+    },
+    {
+      "verb": "48. Görüşmek (Contacter)",
+      "rows": [
+        {
+          "pastTense": "Görüş‑tüm",
+          "presentTense": "Görüş‑ü‑yorum",
+          "futureTense": "Görüş‑e‑ceğim"
+        },
+        {
+          "pastTense": "Görüş‑tün",
+          "presentTense": "Görüş‑ü‑yorsun",
+          "futureTense": "Görüş‑e‑ceksin"
+        },
+        {
+          "pastTense": "Görüş‑tü",
+          "presentTense": "Görüş‑ü‑yor",
+          "futureTense": "Görüş‑e‑cek"
+        },
+        {
+          "pastTense": "Görüş‑tük",
+          "presentTense": "Görüş‑ü‑yoruz",
+          "futureTense": "Görüş‑e‑ceğiz"
+        },
+        {
+          "pastTense": "Görüş‑tünüz",
+          "presentTense": "Görüş‑ü‑yorsunuz",
+          "futureTense": "Görüş‑e‑ceksiniz"
+        },
+        {
+          "pastTense": "Görüş‑tüler",
+          "presentTense": "Görüş‑ü‑yorlar",
+          "futureTense": "Görüş‑e‑cekler"
         }
       ]
     }

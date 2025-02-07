@@ -8,7 +8,7 @@ class Conjugation {
 
   factory Conjugation.fromJson(Map<String, dynamic> json) {
     return Conjugation(
-      tense: json['tense'],
+      tense: json['verb'],
       rows: (json['rows'] as List)
           .map((row) => ConjugationRow.fromJson(row))
           .toList(),
@@ -17,20 +17,20 @@ class Conjugation {
 }
 
 class ConjugationRow {
-  final String person;
-  final String conjugation;
-  final String translation;
+  final String pastTense;
+  final String presentTense;
+  final String futureTense;
 
   ConjugationRow(
-      {required this.person,
-      required this.conjugation,
-      required this.translation});
+      {required this.pastTense,
+      required this.presentTense,
+      required this.futureTense});
 
   factory ConjugationRow.fromJson(Map<String, dynamic> json) {
     return ConjugationRow(
-      person: json['person'],
-      conjugation: json['conjugation'],
-      translation: json['translation'],
+      pastTense: json['pastTense'],
+      presentTense: json['presentTense'],
+      futureTense: json['futureTense'],
     );
   }
 }

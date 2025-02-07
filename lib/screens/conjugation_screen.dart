@@ -23,12 +23,16 @@ class _ConjugationScreenState extends State<ConjugationScreen> {
 
   @override
   Widget build(BuildContext context) {
-    return ListView.builder(
-      itemCount: conjugations.length,
-      itemBuilder: (context, index) {
-        final conjugation = conjugations[index];
-        return ConjugationCard(conjugation: conjugation);
-      },
-    );
+    return Scaffold(
+        appBar: AppBar(
+          title: Text('Turkish Verbs'),
+        ),
+        body: ListView.builder(
+          itemCount: conjugations.length,
+          itemBuilder: (context, index) {
+            final conjugation = conjugations[index];
+            return ConjugationCard(conjugation: conjugation);
+          },
+        ));
   }
 }
