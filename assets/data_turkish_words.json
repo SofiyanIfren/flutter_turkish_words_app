@@ -7,7 +7,7 @@
  {
   "Turkish": "Abla",
   "English meaning(s)": "Older sister",
-  "French meaning(s)": "Sœur aînée"
+  "French meaning(s)": "Soeur aînée"
  },
  {
   "Turkish": "Acaba",
@@ -82,7 +82,12 @@
  {
   "Turkish": "Ağlamak",
   "English meaning(s)": "To cry",
-  "French meaning(s)": "Pour pleurer"
+  "French meaning(s)": "Pleurer"
+ },
+ {
+  "Turkish": "Ahududu",
+  "English meaning(s)": "Rraspberry",
+  "French meaning(s)": "Framboise"
  },
  {
   "Turkish": "Aile",
@@ -170,6 +175,11 @@
   "French meaning(s)": "Moment"
  },
  {
+  "Turkish": "Ananas",
+  "English meaning(s)": "Pineapple",
+  "French meaning(s)": "Ananas"
+ },
+ {
   "Turkish": "Anlam",
   "English meaning(s)": "Meaning",
   "French meaning(s)": "Signification"
@@ -192,7 +202,7 @@
  {
   "Turkish": "Anne",
   "English meaning(s)": "Mother",
-  "French meaning(s)": "Mère de famille"
+  "French meaning(s)": "Maman, Mère de famille"
  },
  {
   "Turkish": "Apartman",
@@ -275,6 +285,11 @@
   "French meaning(s)": "Jamais"
  },
  {
+  "Turkish": "Aslan",
+  "English meaning(s)": "Lion",
+  "French meaning(s)": "Lion"
+ },
+ {
   "Turkish": "Aslında",
   "English meaning(s)": "Actually",
   "French meaning(s)": "Réellement"
@@ -298,6 +313,11 @@
   "Turkish": "Atmak",
   "English meaning(s)": "To throw",
   "French meaning(s)": "Lancer"
+ },
+ {
+  "Turkish": "Avocado",
+  "English meaning(s)": "Avocado",
+  "French meaning(s)": "Avocat"
  },
  {
   "Turkish": "Ay",
@@ -352,7 +372,7 @@
  {
   "Turkish": "Baba",
   "English meaning(s)": "Dad",
-  "French meaning(s)": "Papa"
+  "French meaning(s)": "Papa, Père de famille"
  },
  {
   "Turkish": "Bacak",
@@ -367,7 +387,22 @@
  {
   "Turkish": "Bağlamak",
   "English meaning(s)": "To tie, to connect",
-  "French meaning(s)": "Pour attacher, pour relier"
+  "French meaning(s)": "Attacher, relier"
+ },
+ {
+  "Turkish": "Baharat",
+  "English meaning(s)": "Spice",
+  "French meaning(s)": "Épice"
+ },
+ {
+  "Turkish": "Baharatlı",
+  "English meaning(s)": "Spicy",
+  "French meaning(s)": "Épicé"
+ },
+ {
+  "Turkish": "Bal",
+  "English meaning(s)": "Honey",
+  "French meaning(s)": "Miel"
  },
  {
   "Turkish": "Bahçe",
@@ -457,7 +492,7 @@
  {
   "Turkish": "Basmak",
   "English meaning(s)": "To step, to press",
-  "French meaning(s)": "Pour avancer, pour presser"
+  "French meaning(s)": "Avancer, presser"
  },
  {
   "Turkish": "Batı",
@@ -732,7 +767,7 @@
  {
   "Turkish": "Boş",
   "English meaning(s)": "Empty",
-  "French meaning(s)": "Vider"
+  "French meaning(s)": "Vide"
  },
  {
   "Turkish": "Boşaltmak",
@@ -907,12 +942,12 @@
  {
   "Turkish": "Cevap vermek",
   "English meaning(s)": "To answer",
-  "French meaning(s)": "Pour répondre"
+  "French meaning(s)": "Répondre"
  },
  {
   "Turkish": "Çevirmek",
   "English meaning(s)": "To flip, to translate something",
-  "French meaning(s)": "Pour retourner, pour traduire quelque chose"
+  "French meaning(s)": "Retourner, pour traduire quelque chose"
  },
  {
   "Turkish": "Çevre",
@@ -950,9 +985,19 @@
   "French meaning(s)": "Agriculteur"
  },
  {
+  "Turkish": "Çiftlik",
+  "English meaning(s)": "Farm",
+  "French meaning(s)": "Ferme"
+ },
+ {
   "Turkish": "Cihaz",
   "English meaning(s)": "Electronic device",
   "French meaning(s)": "Appareil électronique"
+ },
+ {
+  "Turkish": "Çilek",
+  "English meaning(s)": "Strawberry",
+  "French meaning(s)": "Fraise"
  },
  {
   "Turkish": "Çıkarmak",
@@ -1020,6 +1065,16 @@
   "French meaning(s)": "Parce que"
  },
  {
+  "Turkish": "Damat",
+  "English meaning(s)": "Son-in-law, married",
+  "French meaning(s)": "Beau-fils, marié"
+ },
+ {
+  "Turkish": "Dana (et)",
+  "English meaning(s)": "Calf (meat)",
+  "French meaning(s)": "Veau (viande)"
+ },
+ {
   "Turkish": "Dağ",
   "English meaning(s)": "Mountain",
   "French meaning(s)": "Montagne"
@@ -1055,6 +1110,11 @@
   "French meaning(s)": "Danser"
  },
  {
+  "Turkish": "Dar",
+  "English meaning(s)": "Narrow",
+  "French meaning(s)": "Étroit"
+ },
+ {
   "Turkish": "Davet etmek",
   "English meaning(s)": "To invite",
   "French meaning(s)": "Inviter"
@@ -1073,6 +1133,11 @@
   "Turkish": "Dayanmak",
   "English meaning(s)": "To endure",
   "French meaning(s)": "Endurer"
+ },
+ {
+  "Turkish": "Daye",
+  "English meaning(s)": "Uncle (mother's brother",
+  "French meaning(s)": "Oncle (frère de la mère)"
  },
  {
   "Turkish": "Defter",
@@ -1142,7 +1207,7 @@
  {
   "Turkish": "Derin",
   "English meaning(s)": "Deep",
-  "French meaning(s)": "Profondeur"
+  "French meaning(s)": "Profond(eur)"
  },
  {
   "Turkish": "Ders",
@@ -1157,7 +1222,7 @@
  {
   "Turkish": "Devam etmek",
   "English meaning(s)": "To continue",
-  "French meaning(s)": "Pour continuer"
+  "French meaning(s)": "Continuer"
  },
  {
   "Turkish": "Devlet",
@@ -1177,7 +1242,7 @@
  {
   "Turkish": "Dikkat etmek",
   "English meaning(s)": "To be careful",
-  "French meaning(s)": "Pour être prudent(e)"
+  "French meaning(s)": "Être prudent(e)"
  },
  {
   "Turkish": "Dil",
@@ -1232,7 +1297,7 @@
  {
   "Turkish": "Doğru",
   "English meaning(s)": "Right",
-  "French meaning(s)": "Droit"
+  "French meaning(s)": "Droit, Correct"
  },
  {
   "Turkish": "Doğu",
@@ -1267,7 +1332,7 @@
  {
   "Turkish": "Doldurmak",
   "English meaning(s)": "To fill",
-  "French meaning(s)": "Remplir"
+  "French meaning(s)": "Rempli, Plein"
  },
  {
   "Turkish": "Dolu",
@@ -1292,7 +1357,7 @@
  {
   "Turkish": "Dönmek",
   "English meaning(s)": "To turn",
-  "French meaning(s)": "Pour tourner"
+  "French meaning(s)": "Tourner"
  },
  {
   "Turkish": "Dört",
@@ -1515,9 +1580,14 @@
   "French meaning(s)": "Handicapés"
  },
  {
+  "Turkish": "Erik",
+  "English meaning(s)": "Plum",
+  "French meaning(s)": "Prune"
+ },
+ {
   "Turkish": "Erimek",
   "English meaning(s)": "To melt",
-  "French meaning(s)": "Pour fondre"
+  "French meaning(s)": "Fondre, mélanger"
  },
  {
   "Turkish": "Erkek",
@@ -1532,7 +1602,7 @@
  {
   "Turkish": "Eş",
   "English meaning(s)": "Spouse, companion",
-  "French meaning(s)": "Conjoint, compagnon"
+  "French meaning(s)": "Conjoint(e), époux / épouse"
  },
  {
   "Turkish": "Eşit",
@@ -1542,7 +1612,7 @@
  {
   "Turkish": "Eski",
   "English meaning(s)": "Old",
-  "French meaning(s)": "Ancienne"
+  "French meaning(s)": "Ancien(ne), Vieux"
  },
  {
   "Turkish": "Eskiden",
@@ -1660,6 +1730,11 @@
   "French meaning(s)": "Idée"
  },
  {
+  "Turkish": "Fil",
+  "English meaning(s)": "Elephant",
+  "French meaning(s)": "Éléphant"
+ },
+ {
   "Turkish": "Film",
   "English meaning(s)": "Movie (film)",
   "French meaning(s)": "Film (film)"
@@ -1755,6 +1830,11 @@
   "French meaning(s)": "Tradition"
  },
  {
+  "Turkish": "Gelin",
+  "English meaning(s)": "Daughter-in-law, married",
+  "French meaning(s)": "Belle-fille, mariée"
+ },
+ {
   "Turkish": "Gelir",
   "English meaning(s)": "Income",
   "French meaning(s)": "Revenu"
@@ -1817,7 +1897,7 @@
  {
   "Turkish": "Geri vermek",
   "English meaning(s)": "To give back",
-  "French meaning(s)": "Pour donner en retour"
+  "French meaning(s)": "Donner en retour"
  },
  {
   "Turkish": "Getirmek",
@@ -1827,7 +1907,7 @@
  {
   "Turkish": "Gezmek",
   "English meaning(s)": "To explore",
-  "French meaning(s)": "Pour explorer"
+  "French meaning(s)": "Explorer"
  },
  {
   "Turkish": "Gibi",
@@ -1897,7 +1977,7 @@
  {
   "Turkish": "Gönül",
   "English meaning(s)": "Heart, soul",
-  "French meaning(s)": "Cœur, âme"
+  "French meaning(s)": "Coeur, âme"
  },
  {
   "Turkish": "Görev",
@@ -1927,17 +2007,22 @@
  {
   "Turkish": "Götürmek",
   "English meaning(s)": "To take something somewhere",
-  "French meaning(s)": "Pour emmener quelque chose quelque part"
+  "French meaning(s)": "Emmener quelque chose quelque part"
  },
  {
   "Turkish": "Göz",
   "English meaning(s)": "Eye",
-  "French meaning(s)": "Œil"
+  "French meaning(s)": "Oeil"
  },
  {
   "Turkish": "Gözlük",
   "English meaning(s)": "Glasses",
   "French meaning(s)": "Verres"
+ },
+ {
+  "Turkish": "Geyfurt",
+  "English meaning(s)": "Grapefruit",
+  "French meaning(s)": "Pamplemousse"
  },
  {
   "Turkish": "Gri",
@@ -2063,6 +2148,11 @@
   "Turkish": "Hal",
   "English meaning(s)": "State, status",
   "French meaning(s)": "État, statut"
+ },
+ {
+  "Turkish": "Hala",
+  "English meaning(s)": "Aunt (Father's sister)",
+  "French meaning(s)": "Tante (soeur du père)"
  },
  {
   "Turkish": "Hâlâ",
@@ -2415,6 +2505,11 @@
   "French meaning(s)": "Croire"
  },
  {
+  "Turkish": "İncir",
+  "English meaning(s)": "Fig",
+  "French meaning(s)": "Figue"
+ },
+ {
   "Turkish": "İnce",
   "English meaning(s)": "Thin",
   "French meaning(s)": "Mince"
@@ -2437,7 +2532,7 @@
  {
   "Turkish": "İnmek",
   "English meaning(s)": "To get off",
-  "French meaning(s)": "Pour descendre"
+  "French meaning(s)": "Descendre"
  },
  {
   "Turkish": "İnşaat",
@@ -2502,7 +2597,7 @@
  {
   "Turkish": "İyi",
   "English meaning(s)": "Good",
-  "French meaning(s)": "Bien"
+  "French meaning(s)": "Bien, Bon"
  },
  {
   "Turkish": "İzin",
@@ -2627,7 +2722,7 @@
  {
   "Turkish": "Kâlp",
   "English meaning(s)": "Heart",
-  "French meaning(s)": "Le cœur"
+  "French meaning(s)": "Le coeur"
  },
  {
   "Turkish": "Kan",
@@ -2655,6 +2750,11 @@
   "French meaning(s)": "Couverture"
  },
  {
+  "Turkish": "Kaplan",
+  "English meaning(s)": "Tiger",
+  "French meaning(s)": "Tigre"
+ },
+ {
   "Turkish": "Kapatmak",
   "English meaning(s)": "To close (something)",
   "French meaning(s)": "Fermer (quelque chose)"
@@ -2667,7 +2767,7 @@
  {
   "Turkish": "Karanlık",
   "English meaning(s)": "Darkness",
-  "French meaning(s)": "Obscurité"
+  "French meaning(s)": "Obscurité, sombre"
  },
  {
   "Turkish": "Karar vermek",
@@ -2677,12 +2777,12 @@
  {
   "Turkish": "Kardeş",
   "English meaning(s)": "Sibling",
-  "French meaning(s)": "Sœur ou frère"
+  "French meaning(s)": "Soeur ou frère"
  },
  {
   "Turkish": "Karı",
   "English meaning(s)": "Wife",
-  "French meaning(s)": "Femme"
+  "French meaning(s)": "Femme, épouse"
  },
  {
   "Turkish": "Karın",
@@ -2690,9 +2790,19 @@
   "French meaning(s)": "Estomac"
  },
  {
+  "Turkish": "Karınca",
+  "English meaning(s)": "Ant",
+  "French meaning(s)": "Fourmi"
+ },
+ {
   "Turkish": "Karıştırmak",
   "English meaning(s)": "To mix",
-  "French meaning(s)": "Pour mélanger"
+  "French meaning(s)": "Mélanger"
+ },
+ {
+  "Turkish": "Karpuz",
+  "English meaning(s)": "Watermelon",
+  "French meaning(s)": "Pastèque"
  },
  {
   "Turkish": "Karşı",
@@ -2740,6 +2850,11 @@
   "French meaning(s)": "Rond-point"
  },
  {
+  "Turkish": "Kavun",
+  "English meaning(s)": "Melon",
+  "French meaning(s)": "Melon"
+ },
+ {
   "Turkish": "Kaya",
   "English meaning(s)": "Boulder",
   "French meaning(s)": "Boulder"
@@ -2748,6 +2863,21 @@
   "Turkish": "Kaybetmek",
   "English meaning(s)": "To lose",
   "French meaning(s)": "Perdre"
+ },
+ {
+  "Turkish": "Kayınpeder",
+  "English meaning(s)": "Father-in-law",
+  "French meaning(s)": "Beau-père"
+ },
+ {
+  "Turkish": "Kayınpvalide",
+  "English meaning(s)": "Mother-in-law",
+  "French meaning(s)": "Belle-mère"
+ },
+ {
+  "Turkish": "Kayısı",
+  "English meaning(s)": "Apricot",
+  "French meaning(s)": "Abricot"
  },
  {
   "Turkish": "Kayıt",
@@ -2788,6 +2918,11 @@
   "Turkish": "Kedi",
   "English meaning(s)": "Cat",
   "French meaning(s)": "Chat"
+ },
+ {
+  "Turkish": "Kelebek",
+  "English meaning(s)": "Butterfly",
+  "French meaning(s)": "Papillon"
  },
  {
   "Turkish": "Kelime",
@@ -2842,7 +2977,7 @@
  {
   "Turkish": "Kilitlemek",
   "English meaning(s)": "To lock",
-  "French meaning(s)": "Pour verrouiller"
+  "French meaning(s)": "Verrouiller"
  },
  {
   "Turkish": "Kılmak",
@@ -2910,6 +3045,11 @@
   "French meaning(s)": "Livre"
  },
  {
+  "Turkish": "Kivi",
+  "English meaning(s)": "Kiwi",
+  "French meaning(s)": "Kiwi"
+ },
+ {
   "Turkish": "Kız",
   "English meaning(s)": "Girl",
   "French meaning(s)": "Fille"
@@ -2922,7 +3062,7 @@
  {
   "Turkish": "Kız kardeş",
   "English meaning(s)": "Sister",
-  "French meaning(s)": "Sœur"
+  "French meaning(s)": "Soeur"
  },
  {
   "Turkish": "Kızarmak",
@@ -2937,7 +3077,7 @@
  {
   "Turkish": "Koca",
   "English meaning(s)": "Husband (or huge)",
-  "French meaning(s)": "Mari (ou énorme)"
+  "French meaning(s)": "Mari, époux (ou énorme)"
  },
  {
   "Turkish": "Koku",
@@ -3180,6 +3320,16 @@
   "French meaning(s)": "Nord"
  },
  {
+  "Turkish": "Kuzen",
+  "English meaning(s)": "Cousin",
+  "French meaning(s)": "Cousin"
+ },
+ {
+  "Turkish": "Kuzu (et)",
+  "English meaning(s)": "Lamb (meat)",
+  "French meaning(s)": "Agneau (viande)"
+ },
+ {
   "Turkish": "Laf",
   "English meaning(s)": "Word, empty words",
   "French meaning(s)": "Mot, mots vides"
@@ -3255,6 +3405,11 @@
   "French meaning(s)": "Quartier (partie d'un ilçe)"
  },
  {
+  "Turkish": "Makarna",
+  "English meaning(s)": "Pasta",
+  "French meaning(s)": "Pâtes"
+ },
+ {
   "Turkish": "Makine",
   "English meaning(s)": "Machine",
   "French meaning(s)": "Machine"
@@ -3310,6 +3465,11 @@
   "French meaning(s)": "Mai"
  },
  {
+   "Turkish": "Maymun",
+   "English meaning(s)": "Monkey",
+   "French meaning(s)": "Singe"
+ },
+ {
   "Turkish": "Meclis",
   "English meaning(s)": "Parliament",
   "French meaning(s)": "Parlement"
@@ -3333,6 +3493,11 @@
   "Turkish": "Merak etmek",
   "English meaning(s)": "To worry, to be curious",
   "French meaning(s)": "S'inquiéter, être curieux"
+ },
+ {
+   "Turkish": "Mercimek",
+   "English meaning(s)": "Lenses",
+   "French meaning(s)": "Lentilles"
  },
  {
   "Turkish": "Merdiven",
@@ -3490,6 +3655,11 @@
   "French meaning(s)": "Malheureux"
  },
  {
+  "Turkish": "Muz",
+  "English meaning(s)": "Banana",
+  "French meaning(s)": "Banane"
+ },
+ {
   "Turkish": "Müzik",
   "English meaning(s)": "Music",
   "French meaning(s)": "Musique"
@@ -3498,6 +3668,11 @@
   "Turkish": "Nakit",
   "English meaning(s)": "Cash",
   "French meaning(s)": "Argent"
+ },
+ {
+  "Turkish": "Nar",
+  "English meaning(s)": "Pomegranate",
+  "French meaning(s)": "Grenade"
  },
  {
   "Turkish": "Nasıl",
@@ -3517,7 +3692,7 @@
  {
   "Turkish": "Nefes almak",
   "English meaning(s)": "To breathe",
-  "French meaning(s)": "Pour respirer"
+  "French meaning(s)": "Respirer"
  },
  {
   "Turkish": "Nehir",
@@ -3698,6 +3873,11 @@
   "Turkish": "Önemli",
   "English meaning(s)": "Important",
   "French meaning(s)": "Important"
+ },
+ {
+  "Turkish": "Ordek",
+  "English meaning(s)": "Duck",
+  "French meaning(s)": "Canard"
  },
  {
   "Turkish": "Orman",
@@ -3915,6 +4095,16 @@
   "French meaning(s)": "Payé d'avance (pas en plusieurs fois)"
  },
  {
+  "Turkish": "Peynir",
+  "English meaning(s)": "Cheese",
+  "French meaning(s)": "Fromage"
+ },
+ {
+  "Turkish": "Pirinç",
+  "English meaning(s)": "Rice",
+  "French meaning(s)": "Riz"
+ },
+ {
   "Turkish": "Pişman",
   "English meaning(s)": "Regretful",
   "French meaning(s)": "Regrettable"
@@ -3958,6 +4148,11 @@
   "Turkish": "Rahat",
   "English meaning(s)": "Comfortable",
   "French meaning(s)": "Confortable"
+ },
+ {
+  "Turkish": "Reçel",
+  "English meaning(s)": "Jam",
+  "French meaning(s)": "Confiture"
  },
  {
   "Turkish": "Reddetmek",
@@ -4032,7 +4227,7 @@
  {
   "Turkish": "Sağlamak",
   "English meaning(s)": "To provide",
-  "French meaning(s)": "Pour assurer"
+  "French meaning(s)": "Assurer (subsistance)"
  },
  {
   "Turkish": "Sağlık",
@@ -4167,7 +4362,7 @@
  {
   "Turkish": "Sebze",
   "English meaning(s)": "Vegetable",
-  "French meaning(s)": "Végétal"
+  "French meaning(s)": "Légume"
  },
  {
   "Turkish": "Seçim",
@@ -4178,6 +4373,11 @@
   "Turkish": "Seçmek",
   "English meaning(s)": "To choose",
   "French meaning(s)": "Choisir"
+ },
+ {
+  "Turkish": "Seftali",
+  "English meaning(s)": "Peach",
+  "French meaning(s)": "Pêche"
  },
  {
   "Turkish": "Şehir",
@@ -4390,6 +4590,11 @@
   "French meaning(s)": "Liquide"
  },
  {
+    "Turkish": "Sivrisinek",
+    "English meaning(s)": "Mosquito",
+    "French meaning(s)": "Moustique"
+ },
+ {
   "Turkish": "Siyah",
   "English meaning(s)": "Black",
   "French meaning(s)": "Noir"
@@ -4417,7 +4622,7 @@
  {
   "Turkish": "Sokmak",
   "English meaning(s)": "To insert, to sting",
-  "French meaning(s)": "Pour insérer, pour piquer"
+  "French meaning(s)": "Insérer, pour piquer"
  },
  {
   "Turkish": "Sol",
@@ -4685,6 +4890,11 @@
   "French meaning(s)": "A recommander"
  },
  {
+  "Turkish": "Tavuk",
+  "English meaning(s)": "Chiken",
+  "French meaning(s)": "Poulet"
+ },
+ {
   "Turkish": "Taze",
   "English meaning(s)": "Fresh",
   "French meaning(s)": "Frais"
@@ -4692,7 +4902,7 @@
  {
   "Turkish": "Tebrik etmek",
   "English meaning(s)": "To congratulate",
-  "French meaning(s)": "Pour féliciter"
+  "French meaning(s)": "Féliciter"
  },
  {
   "Turkish": "Tedavi",
@@ -4747,7 +4957,7 @@
  {
   "Turkish": "Temiz",
   "English meaning(s)": "Clean",
-  "French meaning(s)": "Nettoyer"
+  "French meaning(s)": "Propre"
  },
  {
   "Turkish": "Temizlemek",
@@ -4790,6 +5000,11 @@
   "French meaning(s)": "Préférer"
  },
  {
+  "Turkish": "Tereyaği",
+  "English meaning(s)": "Butter",
+  "French meaning(s)": "Beurre"
+ },
+ {
   "Turkish": "Terlik",
   "English meaning(s)": "Slippers",
   "French meaning(s)": "Pantoufles"
@@ -4802,7 +5017,12 @@
  {
   "Turkish": "Teyze",
   "English meaning(s)": "Aunt (Mother's sister)",
-  "French meaning(s)": "Tante (sœur de la mère)"
+  "French meaning(s)": "Tante (soeur de la mère)"
+ },
+ {
+  "Turkish": "Torunlar",
+  "English meaning(s)": "Grandchildren",
+  "French meaning(s)": "Petits-enfants (famille)"
  },
  {
   "Turkish": "Tip",
@@ -4890,6 +5110,11 @@
   "French meaning(s)": "Sel"
  },
  {
+  "Turkish": "Tuzlu",
+  "English meaning(s)": "Salted",
+  "French meaning(s)": "Salé"
+ },
+ {
   "Turkish": "Uç",
   "English meaning(s)": "Point",
   "French meaning(s)": "Point"
@@ -4955,6 +5180,11 @@
   "French meaning(s)": "Espérer"
  },
  {
+  "Turkish": "Un",
+  "English meaning(s)": "Flour",
+  "French meaning(s)": "Farine"
+ },
+ {
   "Turkish": "Üniversite",
   "English meaning(s)": "University",
   "French meaning(s)": "Université"
@@ -5002,7 +5232,7 @@
  {
   "Turkish": "Uygulamak",
   "English meaning(s)": "To apply",
-  "French meaning(s)": "Pour postuler"
+  "French meaning(s)": "Postuler"
  },
  {
   "Turkish": "Uygun",
@@ -5052,7 +5282,7 @@
  {
   "Turkish": "Uzun",
   "English meaning(s)": "Long, tall",
-  "French meaning(s)": "Longs, grands"
+  "French meaning(s)": "Long, haut"
  },
  {
   "Turkish": "Vakit",
@@ -5062,7 +5292,7 @@
  {
   "Turkish": "Varmak",
   "English meaning(s)": "To arrive",
-  "French meaning(s)": "Pour arriver"
+  "French meaning(s)": "Ariver"
  },
  {
   "Turkish": "Vatandaş",
@@ -5172,7 +5402,7 @@
  {
   "Turkish": "Yanlış",
   "English meaning(s)": "Wrong",
-  "French meaning(s)": "Faux"
+  "French meaning(s)": "Faux, Incorrect"
  },
  {
   "Turkish": "Yanmak",
@@ -5320,6 +5550,11 @@
   "French meaning(s)": "Soixante-dix"
  },
  {
+  "Turkish": "Yeyen",
+  "English meaning(s)": "Niece / Nephew",
+  "French meaning(s)": "Nièce / Neveu"
+ },
+ {
   "Turkish": "Yıl",
   "English meaning(s)": "Year",
   "French meaning(s)": "Année"
@@ -5402,7 +5637,7 @@
  {
   "Turkish": "Yüksek",
   "English meaning(s)": "High",
-  "French meaning(s)": "Élevé"
+  "French meaning(s)": "Élevé, haut"
  },
  {
   "Turkish": "Yumurta",
@@ -5412,7 +5647,7 @@
  {
   "Turkish": "Yumuşak",
   "English meaning(s)": "Soft",
-  "French meaning(s)": "Doux"
+  "French meaning(s)": "Doux, Mou"
  },
  {
   "Turkish": "Yurt dışı",

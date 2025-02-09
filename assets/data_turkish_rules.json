@@ -1,26 +1,74 @@
 [
+    
     {
-        "title": "I - Harmonie Vocalique",
+        "title": "I - Les nombres",
         "description":
-            "- Suffixe -ler : e, i, ö, ü\n- Suffixe -lar : a, ı, o, u",
-        "examples": "Examples: Türkler, dağlar, çocuklar, bahçeler, radyatörler, adalar"
+            "- Unités : sıfır (0), bir (1), iki (2), üç (3), dört (4), beş (5), altı (6), yedi (7), sekiz (8), dokuz (9)\n- Dizaines : on (10), yirmi (20), otuz (30), kırk (40), elli (50), altmış (60), yetmiş (70), seksen (80), doksan (90), yüz (100)\n- Au delà : bin (1 000), bir milyon (un million), bir milyar (un milliard), bir trilyon (un billion)",
+        "examples": "on bir (11),  on iki (12),  on üç (13), on dört (14), on beş (15), on altı (16), on yedi (17), on sekiz (18), on dokuz (19)"
     },
     {
-        "title": "II - Pronoms personnels",
+        "title": "II - Les pronoms",
         "description":
-            "- Je : Ben\n- Tu : Sen\n- Il / Elle / Ce : O\n- Nous : Biz\n- Vous : Siz\n- Ils / Elles : Onlar",
-        "examples": "Dans la conjugaison, les pronoms sont facultatifs."
+            "1. Pronoms personnels :\nBen (Je), Sen (Tu), O (Il/Elle/Ce), Biz (Nous), Siz (Vous), Onlar (Ils/Elles)\n2. Pronoms possessifs :\nBenim (Mon), Senin (Ton), Onun (Son), Bizim (Notre), Sizin (Votre), Onların (Leur)\n- Le(s) mien(s) : Benimki(ler)\n- Le(s) tien(s) : Seninki(ler)\n- Le(s) sien(s) : Onunki(ler)\n- Le(s) notre(s) : Bizimki(ler)\n- Le(s) votre(s) : Sizinki(ler)\n- Le(s) leur(s) : Onlarinki(ler)",
+        "examples": "Exemples :\n(Benim) çantam / (Benim) defterim | (Senin) çantan / (Senin) defterin\n(Onun) çantası / (Onun) defteri | (Bizim) çantamız / (Bizim) defterimiz\n(Sizin) çantanız / (Sizin) defteriniz | (Onlarin) çantaları / (Onlarin) defterleri"
+    },{
+        "title": "II - Harmonie Vocalique",
+        "description":
+            "- Règle 1 :\nLa dernière voyelle avant le suffixe définit la voyelle qui suivra dans ce suffixe : 'a' pour les voyelles dures 'a, ı, o, u' (eg. pluriel : -lar), et 'e' pour les voyelles douces 'e, i, ö, ü' (pluriel : -ler)\n- Règle 2 :\nSi la voyelle du suffixe est 'i' elle peut prendre l'une des formes suivantes (i, ı, ü, u) :\n1. Dernière voyelle du mot 'e' ou 'i' => i\n2. Dernière voyelle du mot 'a' ou 'ı' => ı\n1. Dernière voyelle du mot 'ö' ou 'ü' => ü\n1. Dernière voyelle du mot 'O' ou 'u' => u",
+        "examples": "Exemples :\nTürkler, dağlar, çocuklar, bahçeler, radyatörler, adalar"
     },
     {
-        "title": "III - La nécessité",
+        "title": "III - Le directif",
         "description":
-            "Le suffixe de cette forme est -meli/-malı. Il se place à la fin de la base verbale (le verbe sans -mek/-mak), et après la négation s'il y en a une.",
-        "examples": "Examples : bakmak (regarder) / bakmalı (il faut regarder),\n yemek (manger) / yemeli (il faut manger),\n bakmamak (ne pas regarder) / bakmamalı (il n’est pas nécessaire de regarder),\n yememek (ne pas manger) / yememeli (il n’est pas nécessaire de manger)"
+            "Se construit avec l'ajout du suffixe à la fin du mot : (y)a / (y)e",
+        "examples": "Exemples :\nOkula gidiyorum / Antalya'ya gidiyorum\nDenize gidiyorum / Kafeye gidiyorum"
     },
     {
-        "title": "IV - La forme négative",
+        "title": "IV - Le locatif",
         "description":
-            "Au présent, un verbe passe vers la forme négative en rajoutant entre le radical et les terminaisons le suffixe -mi/-mı/-mü/-mu pour le Şimdiki zaman et -me/-ma (selon l'harmonie vocalique). L'opérateur değil sert à marquer la négation sur les noms, pronoms et adjectifs. Yok est la négation de var et est plutôt utilisé dans un contexte de possession (ou d'existence : il y a ou il n'y a pas.",
-        "examples": "Examples : Bir köpeğim var (j’ai un chien) / Bir köpeğim yok (je n'ai pas de chien),\n peynir var (il y a du fromage) / peynir yok (il n'y a pas de fromage)"
+            "Se construit avec l'ajout du suffixe à la fin du mot : da / de\nN.B. Avec les consonnes sourdes (Ş, S, Ç, F, H, P, T, K) ce sera 'ta' ou 'te'",
+        "examples": "Exemples :\nBu okulda Öğretmenim / Bu kafede tatlı yiyorum / Bu parkta"
+    },
+    {
+        "title": "IV - L'ablatif",
+        "description":
+            "Se construit avec l'ajout du suffixe à la fin du mot : dan / den\nN.B. Avec les consonnes sourdes (Ş, S, Ç, F, H, P, T, K) ce sera 'tan' ou 'ten'",
+        "examples": "Exemples :\nOkuldan geldim / Rize'den çay getirdim / Parktan geldim"
+    },
+    {
+        "title": "V - Avec / Aussi",
+        "description":
+            "- Suffixe pour exprimer 'avec' : (y)la / (y)le\n- Suffixe pour exprimer 'aussi' : da / de",
+        "examples": "Exemples :\nAblamla markete gidiyorum / Arabayla eve gidiyorum / Otobüsle Taksim'e kadar gidiyorum / Taksiyle gitmek istiyorum\nBu oda da geniş / Bu ev de çok güzel"
+    },
+    {
+        "title": "VI - La forme interrogative",
+        "description":
+            "Ne (Quoi) ? | Nasıl (Comment) ? | Ne zaman (Quand) ? | Ne kadar (Combien) ?\nKim (Qui) ? | Hangi (Quel/Lequel/Laquelle) ?\nNeden / Niçin / Niye (Pourquoi) ? | Kaç tane (Combien d'unités)\nNerede (où) ? | Nereye (où) ? | Nereden (d'où) ?",
+        "examples": "Exemples :\nNe yemek pişiriyorsun ? Nasıl orada gideceksin ? Ne zaman çikacağiz ?\nKim konuşuyor ? Hangi meyve istiyorsun ?\nNeden ağlıyorsun ? Kaç tane çocuğun var ?\nNerede çalişıyorsunuz ? Nerede gidiyorsunuz ? Nereden geliyorsun ?"
+    },
+    {
+        "title": "VII - L'impératif'",
+        "description":
+            "Sen (Tu) : On enlève la particule de l'infinitif des verbes (-mak/-mek) :\nSiz (Vous) : Après avoir enlevé l'infinitif, on ajoute 'y' si finit par une voyelle + ın / in / un / ün (en fonction de l'harmonie vocalique)\nPour la seconde personne du pluriel, l'ajout des suffixes suivants est une forme de politesse supplémentaire : ız / uz / ız / iz",
+        "examples": "Exemples :\n Tu (Sen) : çaliş(mak) / Konuş(mak) / Başla(mak) / Söyle(mek)\n- Vous (Siz) : çalişin(ız) / Konuşun(uz) / Başlayın(ız) / Söyleyin(iz)"
+    },
+    {
+        "title": "VIII - La nécessité",
+        "description":
+            "- Le suffixe de cette forme est -meli/-malı\n- Il se place à la fin de la base verbale (le verbe sans -mek/-mak)\n- Il se place après la négation s'il y en a une",
+        "examples": "Exemples :\nBakmak (regarder) / bakmalı (il faut regarder),\nYemek (manger) / yemeli (il faut manger),\nBakmamak (ne pas regarder) / bakmamalı (il n’est pas nécessaire de regarder),\n- Yememek (ne pas manger) / yememeli (il n’est pas nécessaire de manger)"
+    },
+    {
+        "title": "IX - La forme négative (Phrase)",
+        "description":
+            "- L'opérateur değil sert à marquer la négation sur les noms, pronoms et adjectifs\n- Yok est la négation de var utilisé dans un contexte de possession (ou d'existence : il y a ou il n'y a pas)",
+        "examples": "Exemples :\nBir köpeğim var / Bir köpeğim yok\nPeynir var / Peynir yok"
+    },
+    {
+        "title": "X - La forme négative (Verbes)",
+        "description":
+            "- Verbe au présent : base verbale + -mi/-mı/-mü/-mu + -yor + Suffixe de la personne\n- Verbe au passé : base verbale + -me/-ma + -di/-dı + Suffixe de la personne\n- Verbe au futur : base verbale + -me/-ma + -y + -acak/-ecek + Suffixe de la personne\n",
+        "examples": "Exemples :\n- Passé : Çalişmadım, Bulmadım, Söylemedim, Düşünmedim\n- Présent : Çalişmıyorum, Bulmuyorum, Söylemiyorum, Düşünmüyorum\n- Futur : Çalişmayacağim, Bulmayacağim, Söylemeyeceğim, Düşünmeyeceğim"
     }
 ]
