@@ -1,16 +1,33 @@
-# flutter_turkish_words_app
+# Learn Turkish (flutter_turkish_words_app)
 
-A new Flutter project.
+## Presentation
+
+An Opensource mobile application project to help french (and english) speakers to learn turkish, with 3 main functionnalities :
+
+1. 1000+ words added on the main screen, with search mode included
+2. Past, present and future tense for 48 verbs to get all different conjugation forms
+3. Main turkish rules (in french langage)
+
+A hourly notification is settled on the **feature/notification** branch, to give a new word and meaning at each time. You can change word langage and notification rate by editing *main.dart* and *services/notification_service.dart* files.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Clone repository and, from root folder :
 
-A few resources to get you started if this is your first Flutter project:
+- Install Flutter dependencies and packages :
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```
+flutter pub get
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Then, run project :
+
+```
+flutter run
+```
+
+## Contribution
+
+There is still a lot to do on this app, and you can contribute by adding some functionnalities, some langages or make some refactoring !
+
+If you want to contribute, fork the project and feel free to make a new PR ;)
